@@ -1,0 +1,81 @@
+{
+    "help_menu":{
+        "title":"Help Menu",
+        "commands":{
+            "help":"❓ Get this help menu",
+            "get":"📥 Get the games that are currently free",
+            "setup":"✅ Setup the notifications channel (only for people with admin permissions)",
+            "stop":"❌ Stop the bot from sending notifications (only for people with admin permissions)",
+            "toggle":"🔨 Toggle settings (only for people with admin permissions)",
+            "role":"🏷️ Assign a role for the bot to mention (only for people with admin permissions)"
+        },
+        "support":{
+            "name":"💎 If you want to support us and the development of this bot",
+            "value":"   You can vote for this bot by Clicking [here](https://top.gg/bot/698117737175580692)"
+        },
+        "discord":{
+            "name":"🔗 You can also check out our discord server",
+            "value":"  You can join the server [here](https://discord.gg/wzF9qfC)"
+        }
+    },
+    "commands":{
+        "insufficient_permissions":"Sorry, you don't have the permission to use this command!",
+        "setup":{
+            "already_setup":"You're already setup! \n To setup in a new channel first use FG stop",
+            "success":"Okay, i will give you updates when there is a new free game :D"
+        },
+        "stop":{
+            "not_setup":"I wasn't setup yet so you can't stop me",
+            "success":"Okay, i will stop sending updates!"
+        },
+        "role":{
+            "tag_a_role":"You need to tag the role you want to assign!",
+            "everyone":"everyone will now be tagged when a new game is free!",
+            "role_success":"will now be tagged when a new game is free!",
+            "not_setup":"I wasn't setup yet so you can't assign a role!"
+        },
+        "toggle":{
+            "specify_option":"Please specify what option to toggle. \n Choose from",
+            "not_setup":"You need to be setup before you can toggle stuff",
+            "options":{
+                "steam":{
+                    "will":"Steam games will be announced!",
+                    "wont":"Steam games won't be announced!"
+                },
+                "epic":{
+                    "will":"Epic games will be announced!",
+                    "wont":"Epic games won't be announced!"
+                },
+                "uplay":{
+                    "will":"Uplay games will be announced!",
+                    "wont":"Uplay games won't be announced!"
+                },
+                "humble":{
+                    "will":"Humble games will be announced!",
+                    "wont":"Humble games won't be announced!"
+                },
+                "weekend":{
+                    "will":"Free weekends will be announced!",
+                    "wont":"Free weekends won't be announced!"
+                },
+                "gog":{
+                    "will":"GOG games will be announced!",
+                    "wont":"GOG games won't be announced!"
+                }
+            }
+        }
+    },
+    "free_games_embed_get":{
+        "title":"Free Games!",
+        "no_games":"There are currently no free games available!"
+    },
+    "free_games_embed_announce":{
+        "free_until":"Free Until",
+        "state":"State",
+        "support_us":{
+            "name":"Support us",
+            "value":"[Join our discord server](https://discordapp.com/invite/wzF9qfC)\n[Get this bot](https://top.gg/bot/698117737175580692)"
+        },
+        "footer":"Click on the name to go to the store"
+    }
+}

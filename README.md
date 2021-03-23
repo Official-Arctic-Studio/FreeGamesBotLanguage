@@ -44,7 +44,7 @@ Add your language to the Free Games Bot!
 |        Faeroese       |  FO  |       |           |
 |          Fiji         |  FJ  |       |           |
 |        Finnish        |  FI  |       |           |
-|         French        |  FR  |       |           |
+|         French        |  FR  |   ✅    |    Aurel#1422       |
 |        Frisian        |  FY  |       |           |
 | Gaelic (Scots Gaelic) |  GD  |       |           |
 |        Galician       |  GL  |       |           |
@@ -118,7 +118,7 @@ Add your language to the Free Games Bot!
 |         Slovak        |  SK  |       |           |
 |       Slovenian       |  SL  |       |           |
 |         Somali        |  SO  |       |           |
-|        Spanish        |  ES  |       |           |
+|        Spanish        |  ES  |   ✅    |      MrWizzxrd#1422     |
 |        Sudanese       |  SU  |       |           |
 |        Swahili        |  SW  |       |           |
 |        Swedish        |  SV  |       |           |

@@ -7,5 +7,5 @@ Language repository for the Free Games Bot discord bot
 * create a pull request
 * You're done!
 
-Thanks for helping us out translating our bot!
+Thanks for helping us out translating our bot! \n
 ~Arctic Studio ([discord server](https://discordapp.com/invite/wzF9qfC))

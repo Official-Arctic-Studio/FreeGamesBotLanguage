@@ -35,7 +35,7 @@
             "not_setup":"Ik ben nog niet ingesteld, dus je kunt geen rol toewijzen!"
         },
         "toggle":{
-            "specify_option":"Geef aan welke optie u wilt in- of uitschakelen. \ n Kies uit",
+            "specify_option":"Geef aan welke optie u wilt in- of uitschakelen. \n Kies uit",
             "not_setup":"U moet zijn ingesteld voordat u dingen kunt in- en uitschakelen.",
             "options":{
                 "steam":{

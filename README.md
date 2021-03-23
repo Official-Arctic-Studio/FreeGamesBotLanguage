@@ -1,7 +1,7 @@
 # FreeGamesBotLang
 Language repository for the Free Games Bot discord bot
 
-#How to add my language?
+## **How to add my language?*8
 * copy 'en.json' and rename it to '__.json' __ needs to be the 2 letter code for your language (https://www.sitepoint.com/iso-2-letter-language-codes/),
 * translate the english text to your language
 * create a pull request

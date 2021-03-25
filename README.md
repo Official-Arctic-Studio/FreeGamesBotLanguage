@@ -151,9 +151,9 @@ Add your language to the Free Games Bot!
 |          Zulu         |  ZU  |       |           |
 
 
-## Thanks for helping us with translating the Free Games Bot! 
-Join our [Discord server](https://discordapp.com/invite/wzF9qfC)  
-Devs:  
+## Thanks for helping us with translating the Free Games Bot!  
+### Devs:
 - [Siddhart's Github page](https://github.com/Siddhartt)  
-- [GameFreak21's Github page](https://github.com/GameFreak21)  
-
+- [GameFreak21's Github page](https://github.com/GameFreak21)
+### Discord Server
+- invite: [https://discordapp.com/invite/wzF9qfC](https://discordapp.com/invite/wzF9qfC)

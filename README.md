@@ -8,6 +8,9 @@ Add your language to the Free Games Bot!
      Only change the values of the json file to sentences in your own language.
 4. After you translated the sentences create a pull request with your Discord Username,tag and language. We will take a look at it and merge the files into the repository.  
   
+  
+## **Languages**  
+
 |        Language       | Code | Added | Edited By |
 |:---------------------:|:----:|:-----:|:---------:|
 |       Abkhazian       |  AB  |       |           |
@@ -148,5 +151,9 @@ Add your language to the Free Games Bot!
 |          Zulu         |  ZU  |       |           |
 
 
-Thanks for helping us with translating the Free Games Bot! 
-##### ~Arctic Studio ([discord server](https://discordapp.com/invite/wzF9qfC))
+## Thanks for helping us with translating the Free Games Bot! 
+Join our [Discord server](https://discordapp.com/invite/wzF9qfC)  
+Devs:  
+- [Siddhart's Github page](https://github.com/Siddhartt)  
+- [GameFreak21's Github page](https://github.com/GameFreak21)  
+

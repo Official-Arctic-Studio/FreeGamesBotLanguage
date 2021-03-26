@@ -1,0 +1,81 @@
+{
+    "help_menu":{
+        "title":"Menu de Ayuda",
+        "commands":{
+            "help":"❓ Muestra este menú",
+            "get":"📥 Muestra los juegos que estan actualmente gratuitos",
+            "setup":"✅ Configurar el canal de notificaciones (solo para personas con permisos de administrador)",
+            "stop":"❌ Evite que el bot envíe notificaciones (solo para personas con permisos de administrador)",
+            "toggle":"🔨 Alternar configuración (solo para personas con permisos de administrador)",
+            "role":"🏷️ Asignar un rol para que el bot lo mencione (solo para personas con permisos de administrador)"
+        },
+        "support":{
+            "name":"💎 Si quieres apoyarnos y apoyar el desarrollo de este bot",
+            "value":"   Puede votar por este bot haciendo clic en [aquí](https://top.gg/bot/698117737175580692)"
+        },
+        "discord":{
+            "name":"🔗 También puede consultar nuestro servidor de discord",
+            "value":"  Puede unirse al servidor [aquí](https://discord.gg/wzF9qfC)"
+        }
+    },
+    "commands":{
+        "insufficient_permissions":"Lo sentimos, ¡no tienes permiso para usar este comando!",
+        "setup":{
+            "already_setup":"¡Ya está configurado! \n Para configurar en un nuevo canal, primero use FG stop",
+            "success":"De acuerdo, te daré actualizaciones cuando haya un nuevo juego gratuito :D"
+        },
+        "stop":{
+            "not_setup":"No estaba configurado todavía, así que no puedes detenerme.",
+            "success":"¡De acuerdo, dejaré de enviar actualizaciones!"
+        },
+        "role":{
+            "tag_a_role":"¡Debe etiquetar el rol que desea asignar!",
+            "everyone":"¡Ahora todos serán etiquetados cuando un nuevo juego sea gratis!",
+            "role_success":"será ahora etiquetado cuando un nuevo juego sea gratis!",
+            "not_setup":"¡Todavía no estaba configurado, así que no puedes asignar un rol!"
+        },
+        "toggle":{
+            "specify_option":"Especifique qué opción alternar. \n Elija entre",
+            "not_setup":"Necesitas estar configurado antes de poder alternar cosas",
+            "options":{
+                "steam":{
+                    "will":"¡Se anunciarán los juegos de Steam!",
+                    "wont":"¡No se anunciarán los juegos de Steam!"
+                },
+                "epic":{
+                    "will":"¡Se anunciarán los juegos de Epic",
+                    "wont":"¡No se anunciarán los juegos de Epic!"
+                },
+                "uplay":{
+                    "will":"¡Se anunciarán los juegos de Uplay!",
+                    "wont":"¡No se anunciarán los juegos de Uplay!"
+                },
+                "humble":{
+                    "will":"¡Se anunciarán los juegos de Humble!",
+                    "wont":"¡No se anunciarán los juegos de Humble!"
+                },
+                "weekend":{
+                    "will":"¡Fines de semana gratuitos seran anunciados!",
+                    "wont":"¡Fines de semana gratuitos no seran anunciados!"
+                },
+                "gog":{
+                    "will":"¡Se anunciarán los juegos de GOG!",
+                    "wont":"¡No se anunciarán los juegos de GOG!"
+                }
+            }
+        }
+    },
+    "free_games_embed_get":{
+        "title":"¡Juegos gratuitos!",
+        "no_games":"¡Actualmente no hay juegos gratuitos disponibles!"
+    },
+    "free_games_embed_announce":{
+        "free_until":"Gratuito hasta",
+        "state":"Estado",
+        "support_us":{
+            "name":"Apoyanos",
+            "value":"[Únete a nuestro servidor Discord](https://discordapp.com/invite/wzF9qfC)\n[Get this bot](https://top.gg/bot/698117737175580692)"
+        },
+        "footer":"Haga clic en el nombre para ir a la tienda."
+    }
+}

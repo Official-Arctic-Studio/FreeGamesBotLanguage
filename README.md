@@ -8,6 +8,9 @@ Add your language to the Free Games Bot!
      Only change the values of the json file to sentences in your own language.
 4. After you translated the sentences create a pull request with your Discord Username,tag and language. We will take a look at it and merge the files into the repository.  
   
+  
+## **Languages**  
+
 |        Language       | Code | Added | Edited By |
 |:---------------------:|:----:|:-----:|:---------:|
 |       Abkhazian       |  AB  |       |           |
@@ -44,12 +47,12 @@ Add your language to the Free Games Bot!
 |        Faeroese       |  FO  |       |           |
 |          Fiji         |  FJ  |       |           |
 |        Finnish        |  FI  |       |           |
-|         French        |  FR  |       |           |
+|         French        |  FR  |   ✅    |    Aurel#1422       |
 |        Frisian        |  FY  |       |           |
 | Gaelic (Scots Gaelic) |  GD  |       |           |
 |        Galician       |  GL  |       |           |
 |        Georgian       |  KA  |       |           |
-|         German        |  DE  |       |           |
+|         German        |  DE  |   WIP    |   DannyEF#6793        |
 |         Greek         |  EL  |       |           |
 |      Greenlandic      |  KL  |       |           |
 |        Guarani        |  GN  |       |           |
@@ -118,7 +121,7 @@ Add your language to the Free Games Bot!
 |         Slovak        |  SK  |       |           |
 |       Slovenian       |  SL  |       |           |
 |         Somali        |  SO  |       |           |
-|        Spanish        |  ES  |       |           |
+|        Spanish        |  ES  |   ✅    |      MrWizzxrd#1422     |
 |        Sudanese       |  SU  |       |           |
 |        Swahili        |  SW  |       |           |
 |        Swedish        |  SV  |       |           |
@@ -148,5 +151,9 @@ Add your language to the Free Games Bot!
 |          Zulu         |  ZU  |       |           |
 
 
-Thanks for helping us with translating the Free Games Bot! 
-##### ~Arctic Studio ([discord server](https://discordapp.com/invite/wzF9qfC))
+## Thanks for helping us with translating the Free Games Bot!  
+### Devs:
+- [Siddhart's Github page](https://github.com/Siddhartt)  
+- [GameFreak21's Github page](https://github.com/GameFreak21)
+### Discord Server
+- invite: [https://discordapp.com/invite/wzF9qfC](https://discordapp.com/invite/wzF9qfC)

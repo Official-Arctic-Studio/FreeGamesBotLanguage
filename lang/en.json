@@ -7,7 +7,8 @@
             "setup":"✅ Setup the notifications channel (only for people with admin permissions)",
             "stop":"❌ Stop the bot from sending notifications (only for people with admin permissions)",
             "toggle":"🔨 Toggle settings (only for people with admin permissions)",
-            "role":"🏷️ Assign a role for the bot to mention (only for people with admin permissions)"
+            "role":"🏷️ Assign a role for the bot to mention (only for people with admin permissions)",
+            "setlang":""
         },
         "support":{
             "name":"💎 If you want to support us and the development of this bot",
@@ -63,6 +64,11 @@
                     "wont":"GOG games won't be announced!"
                 }
             }
+        },
+        "setlang":{
+            "specify_lang":"Please specify the language you want to change to \n Choose from",
+            "not_setup":"You have to be setup before changing languages!",
+            "success":"Language changed successfully"
         }
     },
     "free_games_embed_get":{

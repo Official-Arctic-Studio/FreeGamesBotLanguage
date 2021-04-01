@@ -63,7 +63,12 @@
 					"wont": "Les jeux GOG ne seront pas annoncés!"
 				}
 			}
-		}
+		},
+        "setlang":{
+            "specify_lang":"Please specify the language you want to change to \n Choose from",
+            "not_setup":"You have to be setup before changing languages!",
+            "success":"Language changed successfully"
+        }
 	},
 	"free_games_embed_get": {
 		"title": "Jeux gratuits!",

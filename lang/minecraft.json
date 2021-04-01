@@ -1,43 +1,43 @@
 {
     "help_menu":{
-        "title":"Help Menu",
+        "title":"⍑ᒷꖎ!¡ menu",
         "commands":{
-            "help":"❓ Get this help menu",
-            "get":"📥 Get the games that are currently free",
-            "setup":"✅ Setup the notifications channel (only for people with admin permissions)",
-            "stop":"❌ Stop the bot from sending notifications (only for people with admin permissions)",
-            "toggle":"🔨 Toggle settings (only for people with admin permissions)",
-            "role":"🏷️ Assign a role for the bot to mention (only for people with admin permissions)",
+            "help":"❓ ⊣ᒷℸ ̣  ℸ ̣ ⍑╎ᓭ ⍑ᒷꖎ!¡ menu",
+            "get":"📥 ⊣ᒷℸ ̣  ℸ ̣ ⍑ᒷ games ℸ ̣ ⍑ᔑℸ ̣  ᔑ∷ᒷ currently ⎓∷ᒷᒷ",
+            "setup":"✅ Setup ℸ ̣ ⍑ᒷ notifications channel (only ⎓𝙹∷ !¡ᒷ𝙹!¡ꖎᒷ ∴╎ℸ ̣ ⍑ admin permissions)",
+            "stop":"❌ ᓭℸ ̣ 𝙹!¡ ℸ ̣ ⍑ᒷ bot ⎓∷𝙹ᒲ sending notifications (only ⎓𝙹∷ !¡ᒷ𝙹!¡ꖎᒷ ∴╎ℸ ̣ ⍑ admin permissions)",
+            "toggle":"🔨 Toggle settings (only ⎓𝙹∷ !¡ᒷ𝙹!¡ꖎᒷ ∴╎ℸ ̣ ⍑ admin permissions)",
+            "role":"🏷️ Assign ᔑ role ⎓𝙹∷ ℸ ̣ ⍑ᒷ bot ℸ ̣ 𝙹 ᒲᒷリℸ ̣ ╎𝙹リ (only ⎓𝙹∷ !¡ᒷ𝙹!¡ꖎᒷ ∴╎ℸ ̣ ⍑ admin permissions)",
             "setlang":"setlang"
         },
         "support":{
-            "name":"💎 If you want to support us and the development of this bot",
-            "value":"   You can vote for this bot by Clicking [here](https://top.gg/bot/698117737175580692)"
+            "name":"💎 ╎⎓ ||𝙹⚍ ∴ᔑリℸ ̣  ℸ ̣ 𝙹 ᓭ⚍!¡!¡𝙹∷ℸ ̣  ⚍ᓭ ᔑリ↸ ℸ ̣ ⍑ᒷ development 𝙹⎓ ℸ ̣ ⍑╎ᓭ bot",
+            "value":"   ||𝙹⚍ ᓵᔑリ vote ⎓𝙹∷ ℸ ̣ ⍑╎ᓭ bot ʖ|| clicking [here](https://top.gg/bot/698117737175580692)"
         },
         "discord":{
-            "name":"🔗 You can also check out our discord server",
-            "value":"  You can join the server [here](https://discord.gg/wzF9qfC)"
+            "name":"🔗 ||𝙹⚍ ᓵᔑリ ᔑꖎᓭ𝙹 ᓵ⍑ᒷᓵꖌ 𝙹⚍ℸ ̣  𝙹⚍∷ discord server",
+            "value":"  ||𝙹⚍ ᓵᔑリ ⋮𝙹╎リ ℸ ̣ ⍑ᒷ server [here](https://discord.gg/wzF9qfC)"
         }
     },
     "commands":{
-        "insufficient_permissions":"Sorry, you don't have the permission to use this command!",
+        "insufficient_permissions":"ᓭ𝙹∷∷||, ||𝙹⚍ ↸𝙹リ'ℸ ̣  ⍑ᔑ⍊ᒷ ℸ ̣ ⍑ᒷ permission ℸ ̣ 𝙹 ⚍ᓭᒷ ℸ ̣ ⍑╎ᓭ ᓵ𝙹ᒲᒲᔑリ↸!",
         "setup":{
-            "already_setup":"You're already setup! \n To setup in a new channel first use FG stop",
-            "success":"Okay, i will give you updates when there is a new free game :D"
+            "already_setup":"||𝙹⚍'re ᔑꖎ∷ᒷᔑ↸|| setup! \n ℸ ̣ 𝙹 setup ╎リ ᔑ リᒷ∴ channel ⎓╎∷ᓭℸ ̣  ⚍ᓭᒷ fg ᓭℸ ̣ 𝙹!¡",
+            "success":"𝙹ꖌᔑ||, i ∴╎ꖎꖎ ⊣╎⍊ᒷ ||𝙹⚍ updates ∴⍑ᒷリ ℸ ̣ ⍑ᒷ∷ᒷ ╎ᓭ ᔑ リᒷ∴ ⎓∷ᒷᒷ ⊣ᔑᒲᒷ :d"
         },
         "stop":{
-            "not_setup":"I wasn't setup yet so you can't stop me",
-            "success":"Okay, i will stop sending updates!"
+            "not_setup":"I ∴ᔑᓭリ'ℸ ̣  setup ||ᒷℸ ̣  ᓭ𝙹 ||𝙹⚍ ᓵᔑリ't ᓭℸ ̣ 𝙹!¡ ᒲᒷ",
+            "success":"𝙹ꖌᔑ||, i ∴╎ꖎꖎ ᓭℸ ̣ 𝙹!¡ sending updates!"
         },
         "role":{
-            "tag_a_role":"You need to tag the role you want to assign!",
-            "everyone":"everyone will now be tagged when a new game is free!",
-            "role_success":"will now be tagged when a new game is free!",
-            "not_setup":"I wasn't setup yet so you can't assign a role!"
+            "tag_a_role":"||𝙹⚍ リᒷᒷ↸ ℸ ̣ 𝙹 tag ℸ ̣ ⍑ᒷ role ||𝙹⚍ ∴ᔑリℸ ̣  ℸ ̣ 𝙹 assign!",
+            "everyone":"ᒷ⍊ᒷ∷||𝙹リᒷ ∴╎ꖎꖎ リ𝙹∴ ʖᒷ tagged ∴⍑ᒷリ ᔑ リᒷ∴ ⊣ᔑᒲᒷ ╎ᓭ ⎓∷ᒷᒷ!",
+            "role_success":"will リ𝙹∴ ʖᒷ tagged ∴⍑ᒷリ ᔑ リᒷ∴ ⊣ᔑᒲᒷ ╎ᓭ ⎓∷ᒷᒷ!",
+            "not_setup":"I ∴ᔑᓭリ'ℸ ̣  setup ||ᒷℸ ̣  ᓭ𝙹 ||𝙹⚍ ᓵᔑリ't assign ᔑ role!"
         },
         "toggle":{
-            "specify_option":"Please specify what option to toggle. \n Choose from",
-            "not_setup":"You need to be setup before you can toggle stuff",
+            "specify_option":"!¡ꖎᒷᔑᓭᒷ specify ∴⍑ᔑℸ ̣  𝙹!¡ℸ ̣ ╎𝙹リ ℸ ̣ 𝙹 toggle.  \n ᓵ⍑𝙹𝙹ᓭᒷ ⎓∷𝙹ᒲ,
+            "not_setup":"you リᒷᒷ↸ ℸ ̣ 𝙹 ʖᒷ setup ʖᒷ⎓𝙹∷ᒷ ||𝙹⚍ ᓵᔑリ toggle ᓭℸ ̣ ⚍⎓⎓",
             "options":{
                 "steam":{
                     "will":"Steam games will be announced!",
@@ -66,22 +66,22 @@
             }
         },
         "setlang":{
-            "specify_lang":"Please specify the language you want to change to \n Choose from",
-            "not_setup":"You have to be setup before changing languages!",
-            "success":"Language changed successfully"
+            "specify_lang":"!¡ꖎᒷᔑᓭᒷ specify ℸ ̣ ⍑ᒷ ꖎᔑリ⊣⚍ᔑ⊣ᒷ ||𝙹⚍ ∴ᔑリℸ ̣  ℸ ̣ 𝙹 ᓵ⍑ᔑリ⊣ᒷ ℸ ̣ 𝙹 \n ᓵ⍑𝙹𝙹ᓭᒷ ⎓∷𝙹ᒲ",
+            "not_setup":"||𝙹⚍ ⍑ᔑ⍊ᒷ ℸ ̣ 𝙹 ʖᒷ setup ʖᒷ⎓𝙹∷ᒷ changing languages!",
+            "success":"ꖎᔑリ⊣⚍ᔑ⊣ᒷ changed successfully"
         }
     },
     "free_games_embed_get":{
-        "title":"Free Games!",
-        "no_games":"There are currently no free games available!"
+        "title":"⎓∷ᒷᒷ games!",
+        "no_games":"ℸ ̣ ⍑ᒷ∷ᒷ ᔑ∷ᒷ currently リ𝙹 ⎓∷ᒷᒷ games available!"
     },
     "free_games_embed_announce":{
-        "free_until":"Free Until",
-        "state":"State",
+        "free_until":"⎓∷ᒷᒷ ⚍リℸ ̣ ╎ꖎ",
+        "state":"ᓭℸ ̣ ᔑℸ ̣ ᒷ",
         "support_us":{
-            "name":"Support us",
-            "value":"[Join our discord server](https://discordapp.com/invite/wzF9qfC)\n[Get this bot](https://top.gg/bot/698117737175580692)"
+            "name":"ᓭ⚍!¡!¡𝙹∷ℸ ̣  ⚍ᓭ",
+            "value":"[⋮𝙹╎リ 𝙹⚍∷ discord server](https://discordapp.com/invite/wzF9qfC)\n[Get this bot](https://top.gg/bot/698117737175580692)"
         },
-        "footer":"Click on the name to go to the store"
+        "footer":"ᓵꖎ╎ᓵꖌ 𝙹リ ℸ ̣ ⍑ᒷ リᔑᒲᒷ ℸ ̣ 𝙹 ⊣𝙹 ℸ ̣ 𝙹 ℸ ̣ ⍑ᒷ ᓭℸ ̣ 𝙹∷ᒷ"
     }
 }

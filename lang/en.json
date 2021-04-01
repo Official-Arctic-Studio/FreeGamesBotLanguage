@@ -8,7 +8,7 @@
             "stop":"❌ Stop the bot from sending notifications (only for people with admin permissions)",
             "toggle":"🔨 Toggle settings (only for people with admin permissions)",
             "role":"🏷️ Assign a role for the bot to mention (only for people with admin permissions)",
-            "setlang":""
+            "setlang":"setlang"
         },
         "support":{
             "name":"💎 If you want to support us and the development of this bot",

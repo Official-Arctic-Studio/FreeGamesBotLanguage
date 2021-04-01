@@ -40,7 +40,7 @@ Add your language to the Free Games Bot!
 |        Croatian       |  HR  |       |           |
 |         Czech         |  CS  |       |           |
 |         Danish        |  DA  |       |           |
-|         Dutch         |  NL  |       |           |
+|         Dutch         |  NL  |    ✅   |   Arctic Studio        |
 |   English, American   |  EN  |   ✅    |        Arctic Studio   |
 |       Esperanto       |  EO  |       |           |
 |        Estonian       |  ET  |       |           |

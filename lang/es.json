@@ -7,7 +7,8 @@
             "setup":"✅ Configurar el canal de notificaciones (solo para personas con permisos de administrador)",
             "stop":"❌ Evite que el bot envíe notificaciones (solo para personas con permisos de administrador)",
             "toggle":"🔨 Alternar configuración (solo para personas con permisos de administrador)",
-            "role":"🏷️ Asignar un rol para que el bot lo mencione (solo para personas con permisos de administrador)"
+            "role":"🏷️ Asignar un rol para que el bot lo mencione (solo para personas con permisos de administrador)",
+            "setlang":""
         },
         "support":{
             "name":"💎 Si quieres apoyarnos y apoyar el desarrollo de este bot",

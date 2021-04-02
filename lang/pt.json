@@ -8,7 +8,7 @@
             "stop":"❌ Impedir o bot de enviar notificações (Apenas para os usuários com permissões de administrador)",
             "toggle":"🔨 Alterar as configurações (Apenas para os usuários com permissões de administrador)",
             "role":"🏷️ Atribuir um cargo para que o bot mencione(Apenas para os usuários com permissões de administrador)",
-            "setlang":""
+            "setlang":"🗺️ Change the language of the bot (only for people with admin permissions)"
         },
         "support":{
             "name":"💎 Se tu quiseres apoiar-nos e o desenvolvimento deste bot",

@@ -8,7 +8,7 @@
 			"stop": "❌ Stopper les notifications du Free Games Bot (seulement pour les personnes ayants les permissions d'admin)",
 			"toggle": "🔨 Activer/Désactiver un distributeur (seulement pour les personnes ayants les permissions d'admin)",
 			"role": "🏷️ Assigner un rôle que le bot mentionnera (seulement pour les personnes ayants les permissions d'admin)",
-		 	"setlang":""
+		 	"setlang":"🗺️ Change the language of the bot (only for people with admin permissions)"
 		},
 		"support": {
 			"name": "💎 Si vous voulez nous aider avec le dévellopement du bot",

@@ -8,7 +8,7 @@
             "stop":"❌ Voorkom dat de bot meldingen verzendt (alleen voor mensen met beheerder rechten)",
             "toggle":"🔨 Wissel instellingen (alleen voor mensen met beheerder rechten)",
             "role":"🏷️ Wijs een rol toe aan de bot om te vermelden (alleen voor mensen met beheerder rechten)",
-            "setlang":""
+            "setlang":"🗺️ Verander de taal van de bot (alleen voor mensen met beheerder rechten)"
         },
         "support":{
             "name":"💎 Als je ons en de ontwikkeling van deze bot wilt steunen",

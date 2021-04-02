@@ -25,7 +25,7 @@ Add your language to the Free Games Bot!
 | Azerbaijani           | AZ   |                |                |       |
 | Bashkir               | BA   |                |                |       |
 | Basque                | EU   |                |                |       |
-| Bengali, Bangla       | BN   |                |                |       |
+| Bengali, Bangla       | BN   |  Gourab#4528   |                | ✅    |
 | Bhutani               | DZ   |                |                |       |
 | Bihari                | BH   |                |                |       |
 | Bislama               | BI   |                |                |       |
@@ -101,7 +101,7 @@ Add your language to the Free Games Bot!
 | Pashto, Pushto        | PS   |                |                |       |
 | Persian               | FA   |                |                |       |
 | Polish                | PL   |                |                |       |
-| Portuguese            | PT   |                |                |       |
+| Portuguese            | PT   | Sofia#6633     |                | ✅   |
 | Punjabi               | PA   |                |                |       |
 | Quechua               | QU   |                |                |       |
 | Rhaeto-Romance        | RM   |                |                |       |

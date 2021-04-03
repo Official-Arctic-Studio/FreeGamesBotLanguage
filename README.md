@@ -143,7 +143,7 @@ Add your language to the Free Games Bot!
 | Uzbek                 | UZ   |                |                |       |
 | Vietnamese            | VI   |                |                |       |
 | Volapuk               | VO   |                |                |       |
-| Welsh                 | CY   |                |                |       |
+| Welsh                 | CY   |  ben.#1233     |                | ✅   |
 | Wolof                 | WO   |                |                |       |
 | Xhosa                 | XH   |                |                |       |
 | Yiddish               | JI   |                |                |       |

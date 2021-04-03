@@ -40,19 +40,19 @@ Add your language to the Free Games Bot!
 | Croatian              | HR   |                |                |       |
 | Czech                 | CS   |                |                |       |
 | Danish                | DA   |                |                |       |
-| Dutch                 | NL   | Arctic Studio  |                | ✅     |
-| English, American     | EN   | Arctic Studio  |                | ✅     |
+| Dutch                 | NL   | Arctic Studio  |                | ✅    |
+| English, American     | EN   | Arctic Studio  |                | ✅    |
 | Esperanto             | EO   |                |                |       |
 | Estonian              | ET   |                |                |       |
 | Faeroese              | FO   |                |                |       |
 | Fiji                  | FJ   |                |                |       |
 | Finnish               | FI   |                |                |       |
-| French                | FR   | Aurel#1422     |                | ✅     |
+| French                | FR   | Aurel#1422     |                | ✅    |
 | Frisian               | FY   |                |                |       |
 | Gaelic (Scots Gaelic) | GD   |                |                |       |
 | Galician              | GL   |                |                |       |
 | Georgian              | KA   |                |                |       |
-| German                | DE   |                |                |    |
+| German                | DE   |    ben.#1233   |                |   ✅  |
 | Greek                 | EL   |                |                |       |
 | Greenlandic           | KL   |                |                |       |
 | Guarani               | GN   |                |                |       |

@@ -1,0 +1,87 @@
+{
+  "help_menu": {
+    "title": "Hilfemenü",
+    "commands": {
+      "help": "❓ Erhalten diese Hilfemenü",
+      "get": "📥 Holen Sie sich derzeit kostenlose Spiele",
+      "setup": "✅ Richten Sie den Benachrichtigungskanal ein (Nur für Administratoren)",
+      "stop": "❌ Stoppen Sie das Senden von Benachrichtigungen durch den Bot (Nur für Administratoren)",
+      "toggle": "🔨 Einstellungen umschalten (Nur für Administratoren)",
+      "role": "🏷️ Weisen Sie dem Bot eine Rolle zu, die erwähnt werden soll (Nur für Administratoren)",
+      "setlang": "🗺️ Ändern Sie die Sprache des Bots (Nur für Administratoren)"
+    },
+    "support": {
+      "name": "💎 Wenn Sie uns und die Entwicklung dieses Bots unterstützen möchten",
+      "value": "   Sie können für diesen Bot stimmen, indem Sie auf klicken [hier](https://top.gg/bot/698117737175580692)"
+    },
+    "discord": {
+      "name": "🔗 Sie können auch unsere discord-server überprüfen.",
+      "value": "  Sie können dem Server beitreten  [hier](https://discord.gg/wzF9qfC)"
+    }
+  },
+  "commands": {
+    "insufficient_permissions": "Entschuldigung, Sie haben nicht die Berechtigung, diesen Befehl zu verwenden!",
+    "setup": {
+      "already_setup": "Du bist schon eingerichtet! \n Um einen neuen Kanal einzurichten, verwenden Sie zuerst 'FG stop'",
+      "success": "Okay, ich werde euch Updates geben, wenn es ein neues kostenloses Spiel gibt :D"
+    },
+    "stop": {
+      "not_setup": "Ich war noch nicht eingerichtet, also kannst du mich nicht aufhalten.",
+      "success": "Okay, ich werde aufhören, Updates zu senden!"
+    },
+    "role": {
+      "tag_a_role": "Sie müssen die Rolle markieren, die Sie zuweisen möchten!",
+      "everyone": "Jeder wird jetzt markiert, wenn ein neues Spiel kostenlos ist!",
+      "role_success": "wird jetzt markiert, wenn ein neues Spiel kostenlos ist!",
+      "not_setup": "Ich war noch nicht eingerichtet, daher können Sie keine Rolle zuweisen!"
+    },
+    "toggle": {
+      "specify_option": "Bitte geben Sie an, welche Option umgeschaltet werden soll. \n Wählen Sie aus",
+      "not_setup": "Sie müssen eingerichtet sein, bevor Sie Inhalte umschalten können.",
+      "options": {
+        "steam": {
+          "will": "Steam-Spiele werden noch bekannt gegeben!",
+          "wont": "Steam-Spiele werden nicht angekündigt!"
+        },
+        "epic": {
+          "will": "Steam-Spiele werden nicht angekündigt!",
+          "wont": "Epische Spiele werden nicht angekündigt!"
+        },
+        "uplay": {
+          "will": "Uplay-Spiele werden noch bekannt gegeben!",
+          "wont": "Uplay-Spiele werden nicht angekündigt!"
+        },
+        "humble": {
+          "will": "Bescheidene Spiele werden angekündigt!",
+          "wont": "Bescheidene Spiele werden nicht angekündigt!"
+        },
+        "weekend": {
+          "will": "Freie Wochenenden werden noch bekannt gegeben!",
+          "wont": "Freie Wochenenden werden nicht angekündigt!"
+        },
+        "gog": {
+          "will": "GOG-Spiele werden angekündigt!",
+          "wont": "GOG-Spiele werden nicht angekündigt!"
+        }
+      }
+    },
+    "setlang": {
+      "specify_lang": "Bitte geben Sie die Sprache an, in die Sie ändern möchten. \n Wählen Sie aus",
+      "not_setup": "Sie müssen eingerichtet sein, bevor Sie die Sprache wechseln können!",
+      "success": "Sprache erfolgreich geändert"
+    }
+  },
+  "free_games_embed_get": {
+    "title": "Gratis Spiele!",
+    "no_games": "Derzeit sind keine kostenlosen Spiele verfügbar."
+  },
+  "free_games_embed_announce": {
+    "free_until": "Frei bis",
+    "state": "State",
+    "support_us": {
+      "name": "Unterstütze uns",
+      "value": "[Treten Sie unserem Discord Server bei](https://discordapp.com/invite/wzF9qfC)\n[Holen Sie sich diesen Bot](https://top.gg/bot/698117737175580692)"
+    },
+    "footer": "Klicken Sie auf den Namen, um zum Geschäft zu gelangen."
+  }
+}

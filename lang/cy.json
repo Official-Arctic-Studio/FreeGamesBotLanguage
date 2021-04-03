@@ -1,0 +1,87 @@
+{
+    "help_menu":{
+        "title":"Dewislen Bwydlen",
+        "commands":{
+            "help":"❓ Sicrhewch y ddewislen gymorth hon",
+            "get":"📥 Fynd y gemau sydd am ddim ar hyn o bryd",
+            "setup":"✅ Sefydlu'r sianel hysbysiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
+            "stop":"❌ Atal y bot rhag anfon hysbysiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
+            "toggle":"🔨 Toggle gosodiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
+            "role":"🏷️ Neilltuwch rôl i'r bot ei grybwyll (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
+            "setlang":"🗺️ Newid iath y bot (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)"
+        },
+        "support":{
+            "name":"💎 Os ydych chi a ein cefnogi ni a datblygiad y bot hwn",
+            "value":"   Gallwch bleidleisio dros y bot hwn trwy glicio [yma](https://top.gg/bot/698117737175580692)"
+        },
+        "discord":{
+            "name":"🔗 Gallwch hefyd edrych ar ein gweinydd discord",
+            "value":"  Gallwch ymuno â'r gweinydd [yma](https://discord.gg/wzF9qfC)"
+        }
+    },
+    "commands":{
+        "insufficient_permissions":"Mae'n ddrwg gennym, nid oes gennych ganiatâd i ddefnyddio'r gorchymyn hwn!!",
+        "setup":{
+            "already_setup":"Rydych chi eisoes wedi sefydlu! \n I sefydlu mewn sianel newydd defnyddiwch 'FG stop' yn gyntf.",
+            "success":"Iawn, byddaf yn rhoi diweddariad newydd ichi pan fydd gêm newydd am ddim. :D"
+        },
+        "stop":{
+            "not_setup":"Nid wyf wedi fy sefydlu eto, felly ni allwch fy rhwystro.",
+            "success":"Iawn, byddaf yn rhoi'r gorau i anfon diweddariadau!"
+        },
+        "role":{
+            "tag_a_role":"Mae angen i chi dagio'r rôl rydych chi am ei phenodi!",
+            "everyone":"Bydd pawb nawr yn cael eu tagio pan fydd gêm newydd yn rhad ac am ddim!",
+            "role_success":"nawr yn cael eu tagio pan fydd gêm newydd yn rhad ac am ddim ",
+            "not_setup":"Ni chefais fy setup eto felly ni allwch aseinio rôl!"
+        },
+        "toggle":{
+            "specify_option":"Nodwch pa opsiwn i'w toglo. \n Dewiswch o",
+            "not_setup":"Mae angen i chi fod yn setup cyn y gallwch chi toglo pethau",
+            "options":{
+                "steam":{
+                    "will":"Gemau stêm yn cael ei gyhoeddi!",
+                    "wont":"Gemau stêm ni chyhoeddir!"
+                },
+                "epic":{
+                    "will":"Cyhoeddir gemau epig!",
+                    "wont":"Ni fydd gemau epig yn cael eu cyhoeddi!"
+                },
+                "uplay":{
+                    "will":"Cyhoeddir gemau Uplay!",
+                    "wont":"Ni fydd gemau Uplay yn cael eu cyhoeddi!"
+                },
+                "humble":{
+                    "will":"Cyhoeddir gemau gostyngedig!",
+                    "wont":"Ni chyhoeddir gemau gostyngedig!"
+                },
+                "weekend":{
+                    "will":"Cyhoeddir penwythnosau am ddim!",
+                    "wont":"Ni chyhoeddir penwythnosau am ddim!"
+                },
+                "gog":{
+                    "will":"Cyhoeddir gemau GOG!",
+                    "wont":"Ni fydd gemau GOG yn cael eu cyhoeddi!"
+                }
+            }
+        },
+        "setlang":{
+            "specify_lang":"Nodwch yr iaith rydych chi am ei newid i \n Dewiswch ohoni",
+            "not_setup":"Mae'n rhaid i chi fod yn setup cyn newid ieithoedd!",
+            "success":"Newidiodd iaith yn llwyddiannus"
+        }
+    },
+    "free_games_embed_get":{
+        "title":"Gemau Am Ddim!",
+        "no_games":"Ar hyn o bryd nid oes gemau am ddim ar gael!"
+    },
+    "free_games_embed_announce":{
+        "free_until":"Am Ddim Tan",
+        "state":"Nodwch",
+        "support_us":{
+            "name":"Cefnogwch ni",
+            "value":"[Ymunwch â'n gweinydd discord](https://discordapp.com/invite/wzF9qfC)\n[Cael y bot hwn](https://top.gg/bot/698117737175580692)"
+        },
+        "footer":"Cliciwch ar yr enw i fynd i'r siop"
+    }
+}

@@ -42,7 +42,7 @@ Add your language to the Free Games Bot!
 | Danish                | DA   |                |                |       |
 | Dutch                 | NL   | Arctic Studio  |                | ✅    |
 | English, American     | EN_US| Arctic Studio  |                | ✅    |
-| English, American     | EN_GB|    ben.#1233   |                | ✅    |
+| English, British      | EN_GB|    ben.#1233   |                | ✅    |
 | Esperanto             | EO   |                |                |       |
 | Estonian              | ET   |                |                |       |
 | Faeroese              | FO   |                |                |       |

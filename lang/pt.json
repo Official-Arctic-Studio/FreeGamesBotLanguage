@@ -7,8 +7,8 @@
             "setup":"✅ Configurar o canal de notificações (Apenas para os usuários com permissões de administrador)",
             "stop":"❌ Impedir o bot de enviar notificações (Apenas para os usuários com permissões de administrador)",
             "toggle":"🔨 Alterar as configurações (Apenas para os usuários com permissões de administrador)",
-            "role":"🏷️ Atribuir um cargo para que o bot mencione(Apenas para os usuários com permissões de administrador)",
-            "setlang":"🗺️ Change the language of the bot (only for people with admin permissions)"
+            "role":"🏷️ Atribuir um cargo para que o bot mencione (Apenas para os usuários com permissões de administrador)",
+            "setlang":"🗺️ Alterar o idioma do Bot (Apenas para os usuários com permissões de administrador)"
         },
         "support":{
             "name":"💎 Se tu quiseres apoiar-nos e o desenvolvimento deste bot",
@@ -32,7 +32,7 @@
         "role":{
             "tag_a_role":"Precisas de mencionar um cargo que tu queiras para ser atribuído!",
             "everyone":"Agora, todos serão mencionados quando um jogo novo estiver gratuito!",
-            "role_success":"será sempre mencionado quando um jogo novo estiver gratuito!",
+            "role_success":"será mencionado a partir de agora quando um jogo novo estiver gratuito!",
             "not_setup":"Não estava ainda configurado, por isso não podes atribuir um cargo!"
         },
         "toggle":{
@@ -73,7 +73,7 @@
     },
     "free_games_embed_get":{
         "title":"Jogos Gratuitos!",
-        "no_games":"Não há jogos gratuitos disponíveis no momento!"
+        "no_games":"Não existe jogos gratuitos disponíveis no momento!"
     },
     "free_games_embed_announce":{
         "free_until":"Gratuito até",

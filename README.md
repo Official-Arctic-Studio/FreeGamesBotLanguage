@@ -41,7 +41,8 @@ Add your language to the Free Games Bot!
 | Czech                 | CS   |                |                |       |
 | Danish                | DA   |                |                |       |
 | Dutch                 | NL   | Arctic Studio  |                | ✅    |
-| English, American     | EN   | Arctic Studio  |                | ✅    |
+| English, American     | EN_US| Arctic Studio  |                | ✅    |
+| English, British      | EN_GB|    ben.#1233   |                | ✅    |
 | Esperanto             | EO   |                |                |       |
 | Estonian              | ET   |                |                |       |
 | Faeroese              | FO   |                |                |       |

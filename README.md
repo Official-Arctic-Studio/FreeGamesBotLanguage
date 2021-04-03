@@ -69,7 +69,7 @@ Add your language to the Free Games Bot!
 | Inupiak               | IK   |                |                |       |
 | Irish                 | GA   |                |                |       |
 | Italian               | IT   |                |                |       |
-| Japanese              | JA   |                |                |       |
+| Japanese              | JA   |    ben.#1233   |                |  ✅   |
 | Javanese              | JW   |                |                |       |
 | Kannada               | KN   |                |                |       |
 | Kashmiri              | KS   |                |                |       |

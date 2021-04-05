@@ -2,7 +2,7 @@
   "help_menu": {
     "title": "Hilfemenü",
     "commands": {
-      "help": "❓ Erhalten diese Hilfemenü",
+      "help": "❓ Bekomme dieses Hilfemenü",
       "get": "📥 Holen Sie sich derzeit kostenlose Spiele",
       "setup": "✅ Richten Sie den Benachrichtigungskanal ein (Nur für Administratoren)",
       "stop": "❌ Stoppen Sie das Senden von Benachrichtigungen durch den Bot (Nur für Administratoren)",
@@ -22,7 +22,7 @@
   "commands": {
     "insufficient_permissions": "Entschuldigung, Sie haben nicht die Berechtigung, diesen Befehl zu verwenden!",
     "setup": {
-      "already_setup": "Du bist schon eingerichtet! \n Um einen neuen Kanal einzurichten, verwenden Sie zuerst 'FG stop'",
+      "already_setup": "Sie haben alles eingerichtet! \n Um einen neuen Kanal einzurichten, verwenden Sie zuerst 'FG stop'",
       "success": "Okay, ich werde euch Updates geben, wenn es ein neues kostenloses Spiel gibt :D"
     },
     "stop": {
@@ -37,26 +37,26 @@
     },
     "toggle": {
       "specify_option": "Bitte geben Sie an, welche Option umgeschaltet werden soll. \n Wählen Sie aus",
-      "not_setup": "Sie müssen eingerichtet sein, bevor Sie Inhalte umschalten können.",
+      "not_setup": "Sie müssen zuerst den Bot einrichten, bevor Sie Inhalte umschalten können.",
       "options": {
         "steam": {
-          "will": "Steam-Spiele werden noch bekannt gegeben!",
+          "will": "Steam-Spiele werden angekündigt!",
           "wont": "Steam-Spiele werden nicht angekündigt!"
         },
         "epic": {
-          "will": "Steam-Spiele werden nicht angekündigt!",
-          "wont": "Epische Spiele werden nicht angekündigt!"
+          "will": "Epic Games wird angekündigt!",
+          "wont": "Epic Games wird nicht angekündigt!"
         },
         "uplay": {
-          "will": "Uplay-Spiele werden noch bekannt gegeben!",
+          "will": "Uplay-Spiele werden angekündigt!",
           "wont": "Uplay-Spiele werden nicht angekündigt!"
         },
         "humble": {
-          "will": "Bescheidene Spiele werden angekündigt!",
-          "wont": "Bescheidene Spiele werden nicht angekündigt!"
+          "will": "Humble Games werden angekündigt!",
+          "wont": "Humble Games werden nicht angekündigt!"
         },
         "weekend": {
-          "will": "Freie Wochenenden werden noch bekannt gegeben!",
+          "will": "Freie Wochenenden werden angekündigt!",
           "wont": "Freie Wochenenden werden nicht angekündigt!"
         },
         "gog": {
@@ -66,7 +66,7 @@
       }
     },
     "setlang": {
-      "specify_lang": "Bitte geben Sie die Sprache an, in die Sie ändern möchten. \n Wählen Sie aus",
+      "specify_lang": "Bitte geben Sie die Sprache an, in die Sie den Bot ändern möchten. \n Wählen Sie aus",
       "not_setup": "Sie müssen eingerichtet sein, bevor Sie die Sprache wechseln können!",
       "success": "Sprache erfolgreich geändert"
     }
@@ -76,8 +76,8 @@
     "no_games": "Derzeit sind keine kostenlosen Spiele verfügbar."
   },
   "free_games_embed_announce": {
-    "free_until": "Frei bis",
-    "state": "State",
+    "free_until": "Kostenlos bis",
+    "state": "Status",
     "support_us": {
       "name": "Unterstütze uns",
       "value": "[Treten Sie unserem Discord Server bei](https://discordapp.com/invite/wzF9qfC)\n[Holen Sie sich diesen Bot](https://top.gg/bot/698117737175580692)"

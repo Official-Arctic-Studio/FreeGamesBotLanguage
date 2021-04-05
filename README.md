@@ -53,7 +53,7 @@ Add your language to the Free Games Bot!
 | Gaelic (Scots Gaelic) | GD   |                |                |       |
 | Galician              | GL   |                |                |       |
 | Georgian              | KA   |                |                |       |
-| German                | DE   |    ben.#1233   |                |   ✅  |
+| German                | DE   |    ben.#1233   |  DannyEF#6793  |   ✅  |
 | Greek                 | EL   |                |                |       |
 | Greenlandic           | KL   |                |                |       |
 | Guarani               | GN   |                |                |       |

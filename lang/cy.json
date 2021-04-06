@@ -5,7 +5,7 @@
             "help":"❓ Sicrhewch y ddewislen gymorth hon",
             "get":"📥 Fynd y gemau sydd am ddim ar hyn o bryd",
             "setup":"✅ Sefydlu'r sianel hysbysiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
-            "stop":"❌ Atal y bot rhag anfon hysbysiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
+            "stop":"❌ Stopiwch y bot rhag anfon hysbysiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
             "toggle":"🔨 Toggle gosodiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
             "role":"🏷️ Neilltuwch rôl i'r bot ei grybwyll (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
             "setlang":"🗺️ Newid iath y bot (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)"
@@ -72,11 +72,11 @@
         }
     },
     "free_games_embed_get":{
-        "title":"Gemau Am Ddim!",
+        "title":"Gemau Di-gost!",
         "no_games":"Ar hyn o bryd nid oes gemau am ddim ar gael!"
     },
     "free_games_embed_announce":{
-        "free_until":"Am Ddim Tan",
+        "free_until":"Di-gost Tan",
         "state":"Nodwch",
         "support_us":{
             "name":"Cefnogwch ni",

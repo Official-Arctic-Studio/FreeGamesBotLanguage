@@ -53,7 +53,7 @@ Add your language to the Free Games Bot!
 | Gaelic (Scots Gaelic) | GD   |                |                |       |
 | Galician              | GL   |                |                |       |
 | Georgian              | KA   |                |                |       |
-| German                | DE   |    ben.#1233   |  DannyEF#6793  |   ✅  |
+| German                | DE   |    ben.#1233   |  shadowwwind#9111  |   ✅  |
 | Greek                 | EL   |                |                |       |
 | Greenlandic           | KL   |                |                |       |
 | Guarani               | GN   |                |                |       |
@@ -102,6 +102,7 @@ Add your language to the Free Games Bot!
 | Pashto, Pushto        | PS   |                |                |       |
 | Persian               | FA   |                |                |       |
 | Polish                | PL   |                |                |       |
+| Brazilian Portuguese  | PT_BR| Matheus_Rib3#4021	   |                |  ✅  |
 | Portuguese            | PT   | Sofia#6633     |                | ✅   |
 | Punjabi               | PA   |                |                |       |
 | Quechua               | QU   |                |                |       |

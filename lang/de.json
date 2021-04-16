@@ -3,49 +3,49 @@
     "title": "Hilfemenü",
     "commands": {
       "help": "❓ Bekomme dieses Hilfemenü",
-      "get": "📥 Holen Sie sich derzeit kostenlose Spiele",
-      "setup": "✅ Richten Sie den Benachrichtigungskanal ein (Nur für Administratoren)",
-      "stop": "❌ Stoppen Sie das Senden von Benachrichtigungen durch den Bot (Nur für Administratoren)",
-      "toggle": "🔨 Einstellungen umschalten (Nur für Administratoren)",
-      "role": "🏷️ Weisen Sie dem Bot eine Rolle zu, die erwähnt werden soll (Nur für Administratoren)",
-      "setlang": "🗺️ Ändern Sie die Sprache des Bots (Nur für Administratoren)"
+      "get": "📥 Sehe alle kostenlosen Spiele",
+      "setup": "✅ Richte den Benachrichtigungskanal ein (Nur für Administratoren)",
+      "stop": "❌ Stoppe das Senden von Benachrichtigungen durch den Bot (Nur für Administratoren)",
+      "toggle": "🔨 Einstellungen ändern (Nur für Administratoren)",
+      "role": "🏷️ Weise dem Bot eine Rolle zu, die erwähnt werden soll (Nur für Administratoren)",
+      "setlang": "🗺️ Änder die Sprache des Bots (Nur für Administratoren)"
     },
     "support": {
-      "name": "💎 Wenn Sie uns und die Entwicklung dieses Bots unterstützen möchten",
-      "value": "   Sie können für diesen Bot stimmen, indem Sie auf klicken [hier](https://top.gg/bot/698117737175580692)"
+      "name": "💎 Unterstütze uns und die Entwicklung dieses Bots",
+      "value": "   Stimme für diesen Bot, hier klicken [hier](https://top.gg/bot/698117737175580692)"
     },
     "discord": {
-      "name": "🔗 Sie können auch unsere discord-server überprüfen.",
-      "value": "  Sie können dem Server beitreten  [hier](https://discord.gg/wzF9qfC)"
+      "name": "🔗 Entdecke unsern Discord Server.",
+      "value": "  Dem Server beitreten  [hier](https://discord.gg/wzF9qfC)"
     }
   },
   "commands": {
     "insufficient_permissions": "Entschuldigung, Sie haben nicht die Berechtigung, diesen Befehl zu verwenden!",
     "setup": {
-      "already_setup": "Sie haben alles eingerichtet! \n Um einen neuen Kanal einzurichten, verwenden Sie zuerst 'FG stop'",
-      "success": "Okay, ich werde euch Updates geben, wenn es ein neues kostenloses Spiel gibt :D"
+      "already_setup": "Alles eingerichtet! \n Um einen neuen Kanal einzurichten, verwende zuerst 'FG stop'",
+      "success": "Okay, ich werde euch benachrichtigen, wenn es neue kostenlose Spiele gibt :D"
     },
     "stop": {
-      "not_setup": "Ich war noch nicht eingerichtet, also kannst du mich nicht aufhalten.",
-      "success": "Okay, ich werde aufhören, Updates zu senden!"
+      "not_setup": "Ich bin noch nicht eingerichtet, also kannst du mich nicht stoppen.",
+      "success": "Okay, ich werde aufhören, Benachrichtigungen zu senden!"
     },
     "role": {
-      "tag_a_role": "Sie müssen die Rolle markieren, die Sie zuweisen möchten!",
-      "everyone": "Jeder wird jetzt markiert, wenn ein neues Spiel kostenlos ist!",
-      "role_success": "wird jetzt markiert, wenn ein neues Spiel kostenlos ist!",
+      "tag_a_role": "Erwähne die Rolle, die Sie zuweisen möchten!",
+      "everyone": "Jeder wird jetzt erwähnt, wenn ein neues Spiel kostenlos ist!",
+      "role_success": "wird jetzt erwähnt, wenn ein neues Spiel kostenlos ist!",
       "not_setup": "Ich war noch nicht eingerichtet, daher können Sie keine Rolle zuweisen!"
     },
     "toggle": {
-      "specify_option": "Bitte geben Sie an, welche Option umgeschaltet werden soll. \n Wählen Sie aus",
-      "not_setup": "Sie müssen zuerst den Bot einrichten, bevor Sie Inhalte umschalten können.",
+      "specify_option": "Bitte gebe an was geändert werden soll. \n Wähle aus",
+      "not_setup": "Der Bot muss eingerichtet sein, bevor Inhalte geändern werden können.",
       "options": {
         "steam": {
           "will": "Steam-Spiele werden angekündigt!",
           "wont": "Steam-Spiele werden nicht angekündigt!"
         },
         "epic": {
-          "will": "Epic Games wird angekündigt!",
-          "wont": "Epic Games wird nicht angekündigt!"
+          "will": "Epic Games Spiele wird angekündigt!",
+          "wont": "Epic Games Spiele wird nicht angekündigt!"
         },
         "uplay": {
           "will": "Uplay-Spiele werden angekündigt!",
@@ -66,8 +66,8 @@
       }
     },
     "setlang": {
-      "specify_lang": "Bitte geben Sie die Sprache an, in die Sie den Bot ändern möchten. \n Wählen Sie aus",
-      "not_setup": "Sie müssen eingerichtet sein, bevor Sie die Sprache wechseln können!",
+      "specify_lang": "Bitte geben die Sprache an, in die Sie den Bot ändern möchten. \n Wähle aus",
+      "not_setup": "Sie müssen eingerichtet sein, bevor die Sprache geändert werden kann!",
       "success": "Sprache erfolgreich geändert"
     }
   },
@@ -82,6 +82,6 @@
       "name": "Unterstütze uns",
       "value": "[Treten Sie unserem Discord Server bei](https://discordapp.com/invite/wzF9qfC)\n[Holen Sie sich diesen Bot](https://top.gg/bot/698117737175580692)"
     },
-    "footer": "Klicken Sie auf den Namen, um zum Geschäft zu gelangen."
+    "footer": "Klicke auf den Namen, um das Spiel zu erhalten."
   }
 }

@@ -11,7 +11,7 @@
             "setlang":"🗺️ Alterar o idioma do Bot (Apenas para os usuários com permissões de administrador)"
         },
         "support":{
-            "name":"💎 Se tu quiseres apoiar-nos e o desenvolvimento deste bot",
+            "name":"💎 Se tu quiseres apoiar-nos no desenvolvimento deste bot",
             "value":"   Podes votar neste bot se clicares [aqui](https://top.gg/bot/698117737175580692)"
         },
         "discord":{
@@ -20,14 +20,14 @@
         }
     },
     "commands":{ 
-        "insufficient_permissions":"Desculpe, não tens permissão para usar este comando!",
+        "insufficient_permissions":"Desculpa, não tens permissão para usar este comando!",
         "setup":{
-            "already_setup":"Já está configurado! \n Para configurar no novo canal, usa primeiro FG stop",
+            "already_setup":"Já está configurado! \n Para configurar no novo canal, usa primeiro o comando FG stop",
             "success":"Certo, irei informar-te sobre as atualizações quando houver um novo jogo gratuito :D"
         },
         "stop":{
             "not_setup":"Não estava ainda configurado, então não me podes impedir",
-            "success":"Certo, Irei parar de enviar as atualizações!"
+            "success":"Certo, irei parar de enviar as atualizações!"
         },
         "role":{
             "tag_a_role":"Precisas de mencionar um cargo que tu queiras para ser atribuído!",
@@ -36,7 +36,7 @@
             "not_setup":"Não estava ainda configurado, por isso não podes atribuir um cargo!"
         },
         "toggle":{
-            "specify_option":"Por favor, especifique qual opção gostaria de alterar \n Escolha entre",
+            "specify_option":"Por favor, especifica qual opção gostarias de alterar \n Escolhe entre",
             "not_setup":"Precisa de estar configurado antes que alteres as coisas",
             "options":{
                 "steam":{
@@ -66,21 +66,21 @@
             }
         },
         "setlang":{
-            "specify_lang":"Por favor, especifique o idioma que queira alterar \n Escolha entre",
-            "not_setup":"Precisa de estar configurado antes de escolher o idioma!",
+            "specify_lang":"Por favor, especifica o idioma que tu queiras alterar \n Escolhe entre",
+            "not_setup":"Precisa de estar configurado antes de escolheres o idioma!",
             "success":"Idioma alterado com sucesso"
         }
     },
     "free_games_embed_get":{
         "title":"Jogos Gratuitos!",
-        "no_games":"Não existe jogos gratuitos disponíveis no momento!"
+        "no_games":"Não existem jogos gratuitos disponíveis no momento!"
     },
     "free_games_embed_announce":{
         "free_until":"Gratuito até",
         "state":"Estado",
         "support_us":{
-            "name":"Apoie-nos",
-            "value":"[Junte-se a nós ao servidor do Discord](https://discordapp.com/invite/wzF9qfC)\n[Adquire este Bot](https://top.gg/bot/698117737175580692)"
+            "name":"Apoia-nos",
+            "value":"[Junta-te a nós no servidor do Discord](https://discordapp.com/invite/wzF9qfC)\n[Adquira este Bot](https://top.gg/bot/698117737175580692)"
         },
         "footer":"Clica no nome do jogo para entrar na loja"
     }

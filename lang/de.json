@@ -12,15 +12,15 @@
     },
     "support": {
       "name": "💎 Unterstütze uns und die Entwicklung dieses Bots",
-      "value": "   Stimme für diesen Bot, hier klicken [hier](https://top.gg/bot/698117737175580692)"
+      "value": "   Stimme für diesen Bot [hier](https://top.gg/bot/698117737175580692)"
     },
     "discord": {
       "name": "🔗 Entdecke unsern Discord Server.",
-      "value": "  Dem Server beitreten  [hier](https://discord.gg/wzF9qfC)"
+      "value": "  Dem Server beitreten [hier](https://discord.gg/wzF9qfC)"
     }
   },
   "commands": {
-    "insufficient_permissions": "Entschuldigung, Sie haben nicht die Berechtigung, diesen Befehl zu verwenden!",
+    "insufficient_permissions": "Entschuldigung, nur Administratoren können diesen Befehl verwenden!",
     "setup": {
       "already_setup": "Alles eingerichtet! \n Um einen neuen Kanal einzurichten, verwende zuerst 'FG stop'",
       "success": "Okay, ich werde euch benachrichtigen, wenn es neue kostenlose Spiele gibt :D"
@@ -30,10 +30,10 @@
       "success": "Okay, ich werde aufhören, Benachrichtigungen zu senden!"
     },
     "role": {
-      "tag_a_role": "Erwähne die Rolle, die Sie zuweisen möchten!",
+      "tag_a_role": "Erwähne die Rolle, die markiert werden soll!",
       "everyone": "Jeder wird jetzt erwähnt, wenn ein neues Spiel kostenlos ist!",
       "role_success": "wird jetzt erwähnt, wenn ein neues Spiel kostenlos ist!",
-      "not_setup": "Ich war noch nicht eingerichtet, daher können Sie keine Rolle zuweisen!"
+      "not_setup": "Der Bot muss eingerichtet sein, bevor Rollen zugewiesen werden können."
     },
     "toggle": {
       "specify_option": "Bitte gebe an was geändert werden soll. \n Wähle aus",
@@ -66,8 +66,8 @@
       }
     },
     "setlang": {
-      "specify_lang": "Bitte geben die Sprache an, in die Sie den Bot ändern möchten. \n Wähle aus",
-      "not_setup": "Sie müssen eingerichtet sein, bevor die Sprache geändert werden kann!",
+      "specify_lang": "Bitte gebe die Sprache an, in die der Bot geändern werden soll. \n Wähle aus",
+      "not_setup": "Der Bot muss eingerichtet sein, bevor die Sprache geändert werden kann!",
       "success": "Sprache erfolgreich geändert"
     }
   },
@@ -80,8 +80,8 @@
     "state": "Status",
     "support_us": {
       "name": "Unterstütze uns",
-      "value": "[Treten Sie unserem Discord Server bei](https://discordapp.com/invite/wzF9qfC)\n[Holen Sie sich diesen Bot](https://top.gg/bot/698117737175580692)"
+      "value": "[Trete unserem Discord Server bei](https://discordapp.com/invite/wzF9qfC)\n[Lade den Bot ein](https://top.gg/bot/698117737175580692)"
     },
-    "footer": "Klicke auf den Namen, um das Spiel zu erhalten."
+    "footer": "Klicke auf den Namen, um zum Store zu kommen."
   }
 }

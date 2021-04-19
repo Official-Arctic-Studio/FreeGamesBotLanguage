@@ -38,7 +38,7 @@ Add your language to the Free Games Bot!
 | Chinese               | ZH   |                |                |       |
 | Corsican              | CO   |                |                |       |
 | Croatian              | HR   |                |                |       |
-| Czech                 | CS   |                |                |       |
+| Czech                 | CS   |   FINERYX#6969 |                |   ✅  |
 | Danish                | DA   |                |                |       |
 | Dutch                 | NL   | Arctic Studio  |                | ✅    |
 | English, American     | EN_US| Arctic Studio  |                | ✅    |

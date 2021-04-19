@@ -1,0 +1,87 @@
+{
+    "help_menu":{
+        "title":"Menu s příkazi",
+        "commands":{
+            "help":"❓ Otevře toto menu",
+            "get":"📥 Zobrazit hry které jsou momentálně zdarma",
+            "setup":"✅ Nastavit kanál s oznámením (pouze pro lidi s administrátorskými pravomocmi)",
+            "stop":"❌ Zakázat botovi posílat notifikace (pouze pro lidi s administrátorskými pravomocmi)",
+            "toggle":"🔨 Změň nastavení (pouze pro lidi s administrátorskými pravomocmi)",
+            "role":"🏷️ Nastavit roli kterou bude bot označovat (pouze pro lidi s administrátorskými pravomocmi)",
+            "setlang":"🗺️ Nastavit jazyk bota (pouze pro lidi s administrátorskými pravomocmi)"
+        },
+        "support":{
+            "name":"💎 Pokud chceš podpořit nás a vývoj tohoto bota",
+            "value":"   Můžeš pro něj hlasovat [zde](https://top.gg/bot/698117737175580692)"
+        },
+        "discord":{
+            "name":"🔗 Můžeš se taky podívat na náš discord server",
+            "value":" Připoj se na server [zde](https://discord.gg/wzF9qfC)"
+        }
+    },
+    "commands":{
+        "insufficient_permissions":"Promiň, ale nemáš dostatečné pravomoce aby jsi mohl použít tento příkaz!",
+        "setup":{
+            "already_setup":"Bot je již nastavený! \n Aby jsi nastavil bota v jiném kanálu prvně použij FG stop",
+            "success":"Rozumím, až bude nějaká hra zdarma, ohlásím to :D"
+        },
+        "stop":{
+            "not_setup":"Ještě jsi mě nenastavil, takže mě nemůžeš zastavit",
+            "success":"Okay, přestanu posílat notifikace!"
+        },
+        "role":{
+            "tag_a_role":"Musíš označit roli kterou chceš přiřadit!",
+            "everyone":"Až bude nová hra zdarma, všichni členové budou označeni!",
+            "role_success":"Až bude nová hra zdarma, budeš označen!",
+            "not_setup":"Ještě jsi mě nenastavil, takže nemůžeš přiradit roli!"
+        },
+        "toggle":{
+            "specify_option":"Prosím vyber nastavení které chceš změnit. \n Můžeš vybrat z",
+            "not_setup":"Ještě jsi mě nenastavil, takže ještě nemůžeš nic nastavovat",
+            "options":{
+                "steam":{
+                    "will":"Hry na steamu budou oznámeny!",
+                    "wont":"Hry na steamu nebudou oznámeny!"
+                },
+                "epic":{
+                    "will":"Hry na Epic Games budou oznámeny!",
+                    "wont":"Hry na Epic Games nebudou oznámeny!"
+                },
+                "uplay":{
+                    "will":"Uplay hry budou oznámeny!",
+                    "wont":"Uplay hry nebudou oznámeny!"
+                },
+                "humble":{
+                    "will":"Humble games budou oznámeny!",
+                    "wont":"Humble games nebudou oznámeny!"
+                },
+                "weekend":{
+                    "will":"Víkendy zdarma budou oznámeny!",
+                    "wont":"Víkendy zdarma nebudou oznámeny!"
+                },
+                "gog":{
+                    "will":"GOG hry budou oznámeny!",
+                    "wont":"GOG hry nebudou oznámeny!"
+                }
+            }
+        },
+        "setlang":{
+            "specify_lang":"Prosím vyber jazyk který chceš nastavit. \n Můžeš vybrat z",
+            "not_setup":"Ještě jsi mě nenastavil, takže ještě nemůžeš měnit jazyk!",
+            "success":"Jazyk byl změněn úspěšně!"
+        }
+    },
+    "free_games_embed_get":{
+        "title":"Hry zdarma!",
+        "no_games":"Momentálně nejsou žádné hry zdarma!"
+    },
+    "free_games_embed_announce":{
+        "free_until":"Zdarma do",
+        "state":"Status",
+        "support_us":{
+            "name":"Podpoř nás",
+            "value":"[Připoj se na náš discord server](https://discordapp.com/invite/wzF9qfC)\n[Pozvi tohoto bota](https://top.gg/bot/698117737175580692)"
+        },
+        "footer":"Klikni na jméno pro přesunutí do obchodu"
+    }
+}

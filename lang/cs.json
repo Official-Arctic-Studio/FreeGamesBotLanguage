@@ -22,7 +22,7 @@
     "commands":{
         "insufficient_permissions":"Promiň, ale nemáš dostatečné pravomoce aby jsi mohl použít tento příkaz!",
         "setup":{
-            "already_setup":"Bot je již nastavený! \n Aby jsi nastavil bota v jiném kanálu prvně použij FG stop",
+            "already_setup":"Bot je již nastavený! \nAby jsi nastavil bota v jiném kanálu prvně použij FG stop",
             "success":"Rozumím, až bude nějaká hra zdarma, ohlásím to :D"
         },
         "stop":{

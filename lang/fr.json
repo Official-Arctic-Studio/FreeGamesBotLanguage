@@ -4,36 +4,36 @@
 		"commands": {
 			"help": "❓ Afficher le menu d'aide",
 			"get": "📥 Afficher les jeux gratuits du moment",
-			"setup": "✅ Gérer les permission du Free Games Bot (seulement pour les personnes ayants les permissions d'admin)",
-			"stop": "❌ Stopper les notifications du Free Games Bot (seulement pour les personnes ayants les permissions d'admin)",
-			"toggle": "🔨 Activer/Désactiver un distributeur (seulement pour les personnes ayants les permissions d'admin)",
-			"role": "🏷️ Assigner un rôle que le bot mentionnera (seulement pour les personnes ayants les permissions d'admin)",
-		 	"setlang":"🗺️ Change the language of the bot (only for people with admin permissions)"
+			"setup": "✅ Gérer les permissions du Free Games Bot (seulement pour les personnes ayants la permission d'administrateur)",
+			"stop": "❌ Stopper les notifications du Free Games Bot (seulement pour les personnes ayants la permission d'administrateur)",
+			"toggle": "🔨 Activer/Désactiver les notifications du Free Games Bot (seulement pour les personnes ayants la permission d'administrateur)",
+			"role": "🏷️ Assigner un rôle que le bot mentionnera (seulement pour les personnes ayants la permission d'administrateur)",
+		 	"setlang":"🗺️ Changer la langue du Free Games Bot (seulement pour les personnes ayants la permission d'administrateur)"
 		},
 		"support": {
-			"name": "💎 Si vous voulez nous aider avec le dévellopement du bot",
+			"name": "💎 Si vous voulez nous aider avec le développement du bot",
 			"value": "   Vous pouvez voter en cliquant [ici](https://top.gg/bot/698117737175580692)"
 		},
 		"discord": {
-			"name": "🔗 Vous pouvez aussi nous touver sur notre serveur Discord",
+			"name": "🔗 Vous pouvez aussi nous rejoindre sur notre serveur Discord",
 			"value": "  Vous pouvez rejoindre ici [ici](https://discord.gg/wzF9qfC)"
 		}
 	},
 	"commands": {
-		"insufficient_permissions": "Désolé, vous n'avez pas les permissions pour faire ça!",
+		"insufficient_permissions": "Désolé, vous n'avez pas les permissions nécessaires pour faire ça!",
 		"setup": {
-			"already_setup": "Vous êtes déjà paramétrer ici \n Pour le paramétrer autre part utilisez d'abord la command FG stop",
+			"already_setup": "Vous avez déjà paramétré ici \n Pour le paramétrer autre part utilisez d'abord la commande FG stop",
 			"success": "Très bien, je vous donnerez les informations des prochains jeux gratuits :D"
 		},
 		"stop": {
-			"not_setup": "Vous ne pouvez pas me stopper, je ne suis pas paramétrer.",
+			"not_setup": "Vous ne pouvez pas me stopper, je ne suis pas paramétré.",
 			"success": "Très bien, j'arrête de donner des informations!"
 		},
 		"role": {
 			"tag_a_role": "Vous devez choisir le rôle que vous souhaitez attribuer!",
 			"everyone": "Tout le monde sera notifié!",
 			"role_success": "sera désormais notifié quand un jeu sera gratuit!",
-			"not_setup": "Je ne suis pas paramétrer donc vous ne pouvez pas assigner de rôle!"
+			"not_setup": "Je ne suis pas paramétré donc vous ne pouvez pas assigner de rôle!"
 		},
 		"toggle": {
 			"specify_option": "Spécifiez quelle option vous voulez activer/désactiver. \n Choose from",
@@ -66,21 +66,21 @@
 			}
 		},
         "setlang":{
-            "specify_lang":"Please specify the language you want to change to \n Choose from",
-            "not_setup":"You have to be setup before changing languages!",
-            "success":"Language changed successfully"
+            "specify_lang":"Merci de préciser la langue dans laquelle vous souhaitez la changer \n Choisissez parmi",
+            "not_setup":"Vous devez setup avant de changer de langue!",
+            "success":"La langue a été modifiée avec succès"
         }
 	},
 	"free_games_embed_get": {
 		"title": "Jeux gratuits!",
-		"no_games": "Il n'y a pas de jeux gratuits pour le moment!"
+		"no_games": "Il n'y a pas de jeu gratuit pour le moment!"
 	},
 	"free_games_embed_announce": {
 		"free_until": "Gratuit jusqu'à",
 		"state": "état",
 		"support_us": {
 			"name": "Aidez nous",
-			"value": "[Rejoignez notre seveur discord](https://discordapp.com/invite/wzF9qfC)\n[Avoir le bot](https://top.gg/bot/698117737175580692)"
+			"value": "[Rejoignez notre serveur Discord](https://discordapp.com/invite/wzF9qfC)\n[Avoir le bot](https://top.gg/bot/698117737175580692)"
 		},
 		"footer": "Cliquez sur le nom pour aller sur la page du magasin!"
 	}

@@ -1,0 +1,87 @@
+{
+    "help_menu":{
+        "title":"Yardım Menüsü",
+        "commands":{
+            "help":"❓ Yardım menüsünü açar",
+            "get":"📥 Şu an ücretsiz olan oyunları görüntüler",
+            "setup":"✅ Bildirim kanalını ayarlar (sadece yönetici yetkilerine sahip kullanıcılar)",
+            "stop":"❌ Botun bildirim yollamasını kapatır (sadece yönetici yetkilerine sahip kullanıcılar)",
+            "toggle":"🔨 Platform ekler/kaldırır (sadece yönetici yetkilerine sahip kullanıcılar)",
+            "role":"🏷️ Botun bildirim yollayacağı bir rol seçer (sadece yönetici yetkilerine sahip kullanıcılar)",
+            "setlang":"🗺️ Botun dilini değiştirir (sadece yönetici yetkilerine sahip kullanıcılar)"
+        },
+        "support":{
+            "name":"💎 Bize ve bu botun geliştirilmesine destek olmak istiyorsanız",
+            "value":"   [Buraya](https://top.gg/bot/698117737175580692) tıklayarak bota oy verebilirsiniz"
+        },
+        "discord":{
+            "name":"🔗 Ayrıca Discord sunucumuza da göz atabilirsiniz",
+            "value":"  [Buraya](https://discord.gg/wzF9qfC) tıklayarak sunucuya katılabilirsiniz"
+        }
+    },
+    "commands":{
+        "insufficient_permissions":"Üzgünüm, bu komutu kullanmak için gerekli yetkilere sahip değilsiniz!",
+        "setup":{
+            "already_setup":"Zaten daha önce ayarlanmış! \n Yeni bir kanal ayarlamadan önce FG stop komutunu kullanınız",
+            "success":"Tamamdır, yeni bir oyun ücretsiz olur olmaz bildireceğim :D"
+        },
+        "stop":{
+            "not_setup":"Daha herhangi bir kanal ayarlanmadığı için durduramazsınız",
+            "success":"Tamamdır, bildirim göndermeyi bırakıyorum!"
+        },
+        "role":{
+            "tag_a_role":"Belirlemek istediğiniz rolü etiketlemeniz gerekmektedir!",
+            "everyone":"everyone rolü her yeni ücretsiz oyun bildiriminde etiketlenecektir!",
+            "role_success":"rolü her yeni ücretsiz oyun bildiriminde etiketlenecektir!",
+            "not_setup":"Herhangi bir kanal ayarlanmadığı için, etiketlenecek rolü belirtemezsiniz!"
+        },
+        "toggle":{
+            "specify_option":"Lütfen hangi platformları ekleyip kaldıracağınızı seçiniz.. \n Şunlar seçilebilir: ",
+            "not_setup":"Ekle/kaldır işlemi yapmadan önce kanal ayarlamanız gerekmektedir",
+            "options":{
+                "steam":{
+                    "will":"Steam oyunları haber verilecek!",
+                    "wont":"Steam oyunları haber verilmeyecek!"
+                },
+                "epic":{
+                    "will":"Epic oyunları haber verilecek!",
+                    "wont":"Epic oyunları haber verilmeyecek!"
+                },
+                "uplay":{
+                    "will":"Uplay oyunları haber verilecek!",
+                    "wont":"Uplay oyunları haber verilmeyecek!"
+                },
+                "humble":{
+                    "will":"Humble oyunları haber verilecek!",
+                    "wont":"Humble oyunları haber verilmeyecek!"
+                },
+                "weekend":{
+                    "will":"Ücretsiz hafta sonu oyunları haber verilecek!",
+                    "wont":"Ücretsiz hafta sonu oyunları haber verilmeyecek!"
+                },
+                "gog":{
+                    "will":"GOG oyunları haber verilecek!",
+                    "wont":"GOG oyunları haber verilmeyecek!"
+                }
+            }
+        },
+        "setlang":{
+            "specify_lang":"Lütfen değiştirmek istediğiniz dili seçin \n Şunlar seçilebilir:",
+            "not_setup":"Dil değiştirmeden önce kanal ayarlamanız gerekmektedir!",
+            "success":"Dil başarıyla değiştirildi"
+        }
+    },
+    "free_games_embed_get":{
+        "title":"Ücretsiz Oyun!",
+        "no_games":"Şu anda hiç ücretsiz oyun bulunmamaktadır!"
+    },
+    "free_games_embed_announce":{
+        "free_until":"Şu zamana kadar ücretsiz:",
+        "state":"Durumu",
+        "support_us":{
+            "name":"Bizi desteklemek için",
+            "value":"[Discord sunucumuza katıl](https://discordapp.com/invite/wzF9qfC)\n[Botu davet et](https://top.gg/bot/698117737175580692)"
+        },
+        "footer":"Mağazaya gitmek için oyunun ismine tıklayın"
+    }
+}

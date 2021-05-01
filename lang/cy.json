@@ -1,9 +1,9 @@
 {
     "help_menu":{
-        "title":"Dewislen Bwydlen",
+        "title":"Helpu Bwydlen",
         "commands":{
-            "help":"❓ Sicrhewch y ddewislen gymorth hon",
-            "get":"📥 Fynd y gemau sydd am ddim ar hyn o bryd",
+            "help":"❓ Sicrhewch y helpu bwydlen",
+            "get":"📥 Hymofyn y gemau di-gost",
             "setup":"✅ Sefydlu'r sianel hysbysiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
             "stop":"❌ Stopiwch y bot rhag anfon hysbysiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
             "toggle":"🔨 Toggle gosodiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",

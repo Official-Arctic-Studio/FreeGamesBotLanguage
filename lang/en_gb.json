@@ -26,7 +26,7 @@
             "success":"Ok, I will give you updates when there is a new free game. :D"
         },
         "stop":{
-            "not_setup":"I wasn't set up yet, so you can't stop me.",
+            "not_setup":"I am not set up yet, so you can't stop me.",
             "success":"Ok, I will stop sending updates!"
         },
         "role":{

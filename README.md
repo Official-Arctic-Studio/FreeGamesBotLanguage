@@ -137,7 +137,7 @@ Add your language to the Free Games Bot!
 | Tigrinya              | TI   |                |                |       |
 | Tonga                 | TO   |                |                |       |
 | Tsonga                | TS   |                |                |       |
-| Turkish               | TR   |                |                |       |
+| Turkish               | TR   |   tEcH#1112    |                |  ✅  |
 | Turkmen               | TK   |                |                |       |
 | Twi                   | TW   |                |                |       |
 | Ukrainian             | UK   |                |                |       |

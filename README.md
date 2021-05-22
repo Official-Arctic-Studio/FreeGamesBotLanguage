@@ -155,7 +155,7 @@ Add your language to the Free Games Bot!
 
 ## Thanks for helping us with translating the Free Games Bot!  
 ### Devs:
-- [Siddhart's Github page](https://github.com/Siddhartt)  
+- [Siddhart's Github page](https://github.com/Siddhart)  
 - [GameFreak21's Github page](https://github.com/GameFreak21)
 ### Discord Server
 - invite: [https://discordapp.com/invite/wzF9qfC](https://discordapp.com/invite/wzF9qfC)

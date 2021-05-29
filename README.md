@@ -100,7 +100,7 @@ Add your language to the Free Games Bot!
 | Oriya                 | OR   |                |                |       |
 | Oromo, Afan           | OM   |                |                |       |
 | Pashto, Pushto        | PS   |                |                |       |
-| Persian               | FA   |                |                |       |
+| Persian               | FA   | mhmp79#6416    |                |  ✅     |
 | Polish                | PL   |                |                |       |
 | Brazilian Portuguese  | PT_BR| Matheus_Rib3#4021	   |                |  ✅  |
 | Portuguese            | PT   | Sofia#6633     |                | ✅   |

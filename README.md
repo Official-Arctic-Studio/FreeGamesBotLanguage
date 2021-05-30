@@ -48,7 +48,7 @@ Add your language to the Free Games Bot!
 | Faeroese              | FO   |                |                |       |
 | Fiji                  | FJ   |                |                |       |
 | Finnish               | FI   |                |                |       |
-| French                | FR   | Aurel#1422     |! !XeLiØs ツ#5000| ✅    |
+| French                | FR   | Aurel#1422     |! " XeLiØs. 🧃#5000| ✅    |
 | Frisian               | FY   |                |                |       |
 | Gaelic (Scots Gaelic) | GD   |                |                |       |
 | Galician              | GL   |                |                |       |

@@ -1,0 +1,87 @@
+{
+    "help_menu":{
+        "title":"Menu Bantuan",
+        "commands":{
+            "help":"❓ Dapatkan menu bantuan.",
+            "get":"📥 Dapatkan permainan yang percuma sekarang.",
+            "setup":"✅ Siapkan saluran noflikasi (Hanya ada untuk orang yang menpunyai kebenaran orang atasan).",
+            "stop":"❌ Hentikan bot daripada menghantar noflikasi (Hanya ada untuk orang yang menpunyai kebenaran orang atasan).",
+            "toggle":"🔨 Togol tetapan (Hanya ada untuk orang yang menpunyai kebenaran orang atasan).",
+            "role":"🏷️ Memberi peranan untuk mengingatkan bot (Hanya ada untuk orang yang menpunyai kebenaran orang atasan).",
+            "setlang":"🗺️ Tukar bahasa bot (Hanya ada untuk orang yang menpunyai kebenaran orang atasan)."
+        },
+        "support":{
+            "name":"💎 Jika anda perlukan sokongan kami dan pembangunan bot ini,",
+            "value":"   Anda boleh mengundi untuk bot dengan mengklik [sini](https://top.gg/bot/698117737175580692)"
+        },
+        "discord":{
+            "name":"🔗 Anda juga boleh melihat discord server kami,",
+            "value":"  Anda boleh sertai server[sini](https://discord.gg/wzF9qfC)"
+        }
+    },
+    "commands":{
+        "insufficient_permissions":"Maaf,anda tidak mempunyai kebenaran untuk menggunakan arahan ini!",
+        "setup":{
+            "already_setup":"Anda sudah bersedia! \n Untuk menyediakan saluran baru.Mula-mula gunakan 'FG stop'",
+            "success":"Baik,saya akan memberi kamu kemas kini  di mana adanya permainan yang baru dan percuma. :D"
+        },
+        "stop":{
+            "not_setup":"Saya belum bersedia lagi jadi kamu tidak boleh hentikan saya.",
+            "success":"Baiklah,saya akan berhenti menghantarkan kemas kini!"
+        },
+        "role":{
+            "tag_a_role":"Kamu perlu tandakan peranan yang kamu mahukan!",
+            "everyone":"Semua akan ditandakan apabila permainan baru menjadi percuma!",
+            "role_success":"kini akan ditandakan apabila permainan baru menjadi percuma!",
+            "not_setup":"Saya belum bersedia lagi jadi kamu tak boleh memainkan peranan!"
+        },
+        "toggle":{
+            "specify_option":"Tolonglah nyatakan apakah pilihan untuk menukar. \n Pilih daripada ",
+            "not_setup":"Anda perlu bersedia sebelum menukarkan barang",
+            "options":{
+                "steam":{
+                    "will":"permainan wap akan didiumumkan!",
+                    "wont":"permainan wap tidak akan diumumkan!"
+                },
+                "epic":{
+                    "will":"permainan epik akan didiumumkan!",
+                    "wont":"permainan epik tidak akan diumumkan!"
+                },
+                "uplay":{
+                    "will":"permainan uplay games akan didiumumkan!",
+                    "wont":"permainan uplay games tidak akan diumumkan!"
+                },
+                "humble":{
+                    "will":"permainan rendah hati games akan didiumumkan!",
+                    "wont":"permainan rendah hati games tidak akan diumumkan!"
+                },
+                "weekend":{
+                    "will":"Hujung minggu percuma akan didiumumkan!",
+                    "wont":"Hujung minggu percuma tidak akan diumumkan!"
+                },
+                "gog":{
+                    "will":"Permainan GOG akan didiumumkan!",
+                    "wont":"Permainan GOG tidak akan diumumkan!"
+                }
+            }
+        },
+        "setlang":{
+            "specify_lang":"Tolonglah nyatakan bahasa yang anda mahukan untuk menukar kepada \n Pilih daripada:",
+            "not_setup":"Anda perlu bersedia sebelum menukar bahasa!",
+            "success":"Bahasa telah berjaya ditukarkan."
+        }
+    },
+    "free_games_embed_get":{
+        "title":"Permainan percuma!",
+        "no_games":"Tiada permainan percuma yang ada  pada masa ini!"
+    },
+    "free_games_embed_announce":{
+        "free_until":"Percuma sehingga:",
+        "state":"Nyatakan:",
+        "support_us":{
+            "name":"Sokonglah kami",
+            "value":"[Sertailah discord kami](https://discordapp.com/invite/wzF9qfC)\n[Dapatkan bot ini](https://top.gg/bot/698117737175580692)"
+        },
+        "footer":"Klik pada nama untuk pergi ke kedai"
+    }
+}

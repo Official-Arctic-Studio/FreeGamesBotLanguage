@@ -1,4 +1,7 @@
 # FreeGamesBot Languages
+[![Discord Bots](https://top.gg/api/widget/status/698117737175580692.svg)](https://top.gg/bot/698117737175580692)
+[![Discord Bots](https://top.gg/api/widget/servers/698117737175580692.svg)](https://top.gg/bot/698117737175580692)
+
 Add your language to the Free Games Bot!
 
 ## **How to add my language?**

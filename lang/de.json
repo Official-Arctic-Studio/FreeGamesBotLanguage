@@ -2,13 +2,12 @@
   "help_menu": {
     "title": "Hilfemenü",
     "commands": {
-      "help": "❓ Bekomme dieses Hilfemenü",
-      "get": "📥 Sehe alle kostenlosen Spiele",
-      "setup": "✅ Richte den Benachrichtigungskanal ein (Nur für Administratoren)",
-      "stop": "❌ Stoppe das Senden von Benachrichtigungen durch den Bot (Nur für Administratoren)",
-      "toggle": "🔨 Einstellungen ändern (Nur für Administratoren)",
-      "role": "🏷️ Weise dem Bot eine Rolle zu, die erwähnt werden soll (Nur für Administratoren)",
-      "setlang": "🗺️ Änder die Sprache des Bots (Nur für Administratoren)"
+      "help": "Bekomme dieses Hilfemenü",
+      "config": "Toggle the stores and change the language of the bot",
+      "get": "Sehe alle kostenlosen Spiele",
+      "setup": "Richte den Benachrichtigungskanal ein (Nur für Administratoren)",
+      "stop": "Stoppe das Senden von Benachrichtigungen durch den Bot (Nur für Administratoren)",
+      "role": "Weise dem Bot eine Rolle zu, die erwähnt werden soll (Nur für Administratoren)",
     },
     "support": {
       "name": "💎 Unterstütze uns und die Entwicklung dieses Bots",
@@ -21,61 +20,41 @@
   },
   "commands": {
     "insufficient_permissions": "Entschuldigung, nur Administratoren können diesen Befehl verwenden!",
+    "not_setup": "You have to set me up before using this command!",
+    "no_args": "This command requires arguments!",
     "setup": {
-      "already_setup": "Alles eingerichtet! \n Um einen neuen Kanal einzurichten, verwende zuerst 'FG stop'",
-      "success": "Okay, ich werde euch benachrichtigen, wenn es neue kostenlose Spiele gibt :D"
+            "updated": "The announcement channel has succesfully been updated!",
+            "success1": "You're all setup, use",
+            "success2": "to test the announcements."
     },
     "stop": {
-      "not_setup": "Ich bin noch nicht eingerichtet, also kannst du mich nicht stoppen.",
       "success": "Okay, ich werde aufhören, Benachrichtigungen zu senden!"
     },
     "role": {
       "tag_a_role": "Erwähne die Rolle, die markiert werden soll!",
       "everyone": "Jeder wird jetzt erwähnt, wenn ein neues Spiel kostenlos ist!",
       "role_success": "wird jetzt erwähnt, wenn ein neues Spiel kostenlos ist!",
-      "not_setup": "Der Bot muss eingerichtet sein, bevor Rollen zugewiesen werden können."
+      "stopped": "No roles will be tagged!"
     },
-    "toggle": {
-      "specify_option": "Bitte gebe an was geändert werden soll. \n Wähle aus",
-      "not_setup": "Der Bot muss eingerichtet sein, bevor Inhalte geändern werden können.",
-      "options": {
-        "steam": {
-          "will": "Steam-Spiele werden angekündigt!",
-          "wont": "Steam-Spiele werden nicht angekündigt!"
+        "config": {
+            "title": "Free Games Bot Config",
+            "description": "Click on the buttons listed under this message to toggle stores and to change the language.",
+            "toggle": "Click on the options you want to toggle",
+            "language": "Click on the language you want to assign to the bot"
         },
-        "epic": {
-          "will": "Epic Games Spiele wird angekündigt!",
-          "wont": "Epic Games Spiele wird nicht angekündigt!"
+        "invite": {
+            "thanks": "Thanks for your intrest!"
         },
-        "uplay": {
-          "will": "Uplay-Spiele werden angekündigt!",
-          "wont": "Uplay-Spiele werden nicht angekündigt!"
-        },
-        "humble": {
-          "will": "Humble Games werden angekündigt!",
-          "wont": "Humble Games werden nicht angekündigt!"
-        },
-        "weekend": {
-          "will": "Freie Wochenenden werden angekündigt!",
-          "wont": "Freie Wochenenden werden nicht angekündigt!"
-        },
-        "gog": {
-          "will": "GOG-Spiele werden angekündigt!",
-          "wont": "GOG-Spiele werden nicht angekündigt!"
+        "setprefix": {
+            "changed": "Prefix changed to:"
         }
-      }
-    },
-    "setlang": {
-      "specify_lang": "Bitte gebe die Sprache an, in die der Bot geändern werden soll. \n Wähle aus",
-      "not_setup": "Der Bot muss eingerichtet sein, bevor die Sprache geändert werden kann!",
-      "success": "Sprache erfolgreich geändert"
-    }
   },
   "free_games_embed_get": {
     "title": "Gratis Spiele!",
     "no_games": "Derzeit sind keine kostenlosen Spiele verfügbar."
   },
   "free_games_embed_announce": {
+    "perms_missing": "Insufficient permissions to announce game! Missing permissions:",
     "free_until": "Kostenlos bis",
     "state": "Status",
     "support_us": {

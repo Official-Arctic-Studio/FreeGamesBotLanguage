@@ -2,13 +2,12 @@
     "help_menu":{
         "title":"Hulp Menu",
         "commands":{
-            "help":"❓ Krijg dit hulp menu",
-            "get":"📥 Krijg de spellen die op dit moment gratis zijn",
-            "setup":"✅ Zet het notificatie kanaal op (alleen voor mensen met beheerder rechten)",
-            "stop":"❌ Voorkom dat de bot meldingen verzendt (alleen voor mensen met beheerder rechten)",
-            "toggle":"🔨 Wissel instellingen (alleen voor mensen met beheerder rechten)",
-            "role":"🏷️ Wijs een rol toe aan de bot om te vermelden (alleen voor mensen met beheerder rechten)",
-            "setlang":"🗺️ Verander de taal van de bot (alleen voor mensen met beheerder rechten)"
+            "help":"Krijg dit hulp menu",
+            "config": "Toggle the stores and change the language of the bot",
+            "get":"Krijg de spellen die op dit moment gratis zijn",
+            "setup":"Zet het notificatie kanaal op (alleen voor mensen met beheerder rechten)",
+            "stop":"Voorkom dat de bot meldingen verzendt (alleen voor mensen met beheerder rechten)",
+            "role":"Wijs een rol toe aan de bot om te vermelden (alleen voor mensen met beheerder rechten)",
         },
         "support":{
             "name":"💎 Als je ons en de ontwikkeling van deze bot wilt steunen",
@@ -21,54 +20,33 @@
     },
     "commands":{
         "insufficient_permissions":"Sorry, je hebt geen toestemming om deze opdracht te gebruiken!",
+        "not_setup": "You have to set me up before using this command!",
+        "no_args": "This command requires arguments!",
         "setup":{
-            "already_setup":"Je bent al klaar! \n Gebruik eerst FG stop om een ​​nieuw kanaal toe te wijzen aan de bot",
-            "success":"Oké, ik zal je updates geven als er een nieuwe gratis game is :D"
+            "updated": "The announcement channel has succesfully been updated!",
+            "success1": "You're all setup, use",
+            "success2": "to test the announcements."
         },
         "stop":{
-            "not_setup":"Ik ben nog niet ingesteld, dus je kunt me niet stoppen",
             "success":"Oké, ik stop met het verzenden van updates!"
         },
         "role":{
             "tag_a_role":"U moet de rol taggen die u wilt toewijzen!",
             "everyone":"iedereen wordt nu getagd als er een nieuw spel gratis is!",
             "role_success":"wordt nu getagd wanneer een nieuw spel gratis is!",
-            "not_setup":"Ik ben nog niet ingesteld, dus je kunt geen rol toewijzen!"
+            "stopped": "No roles will be tagged!"
         },
-        "toggle":{
-            "specify_option":"Geef aan welke optie u wilt in- of uitschakelen. \n Kies uit",
-            "not_setup":"U moet zijn ingesteld voordat u dingen kunt in- en uitschakelen.",
-            "options":{
-                "steam":{
-                    "will":"Steam spellen worden aangekondigd!",
-                    "wont":"Steam spellen worden niet aangekondigd!"
-                },
-                "epic":{
-                    "will":"Epic spellen worden aangekondigd!",
-                    "wont":"Epic games spellen worden niet aangekondigd!"
-                },
-                "uplay":{
-                    "will":"Uplay spellen worden aangekondigd!",
-                    "wont":"Uplay spellen worden niet aangekondigd!"
-                },
-                "humble":{
-                    "will":"Humble spellen worden aangekondigd!",
-                    "wont":"Humble spellen worden niet aangekondigd!"
-                },
-                "weekend":{
-                    "will":"Free weekend spellen worden aangekondigd!",
-                    "wont":"Free weekend spellen worden niet aangekondigd!"
-                },
-                "gog":{
-                    "will":"GOG spellen worden aangekondigd!",
-                    "wont":"GOG spellen worden niet aangekondigd!"
-                }
-            }
+        "config": {
+            "title": "Free Games Bot Config",
+            "description": "Click on the buttons listed under this message to toggle stores and to change the language.",
+            "toggle": "Click on the options you want to toggle",
+            "language": "Click on the language you want to assign to the bot"
         },
-        "setlang":{
-            "specify_lang":"Please specify the language you want to change to \n Choose from",
-            "not_setup":"You have to be setup before changing languages!",
-            "success":"Language changed successfully"
+        "invite": {
+            "thanks": "Thanks for your intrest!"
+        },
+        "setprefix": {
+            "changed": "Prefix changed to:"
         }
     },
     "free_games_embed_get":{
@@ -76,6 +54,7 @@
         "no_games":"Er zijn op dit moment geen gratis spellen!"
     },
     "free_games_embed_announce":{
+         "perms_missing": "Insufficient permissions to announce game! Missing permissions:",
         "free_until":"Gratis tot",
         "state":"Staat",
         "support_us":{

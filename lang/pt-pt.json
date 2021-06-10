@@ -2,13 +2,12 @@
     "help_menu":{
         "title":"Menu de Ajuda",
         "commands":{
-            "help":"❓ Obter o Menu de ajuda",
-            "get":"📥 Obter os jogos que estão atualmente gratuitos",
-            "setup":"✅ Configurar o canal de notificações (Apenas para os usuários com permissões de administrador)",
-            "stop":"❌ Impedir o bot de enviar notificações (Apenas para os usuários com permissões de administrador)",
-            "toggle":"🔨 Alterar as configurações (Apenas para os usuários com permissões de administrador)",
-            "role":"🏷️ Atribuir um cargo para que o bot mencione (Apenas para os usuários com permissões de administrador)",
-            "setlang":"🗺️ Alterar o idioma do Bot (Apenas para os usuários com permissões de administrador)"
+            "help":"Obter o Menu de ajuda",
+            "config": "Toggle the stores and change the language of the bot",
+            "get":"Obter os jogos que estão atualmente gratuitos",
+            "setup":"Configurar o canal de notificações (Apenas para os usuários com permissões de administrador)",
+            "stop":"Impedir o bot de enviar notificações (Apenas para os usuários com permissões de administrador)",
+            "role":"Atribuir um cargo para que o bot mencione (Apenas para os usuários com permissões de administrador)",
         },
         "support":{
             "name":"💎 Se tu quiseres apoiar-nos no desenvolvimento deste bot",
@@ -21,54 +20,33 @@
     },
     "commands":{ 
         "insufficient_permissions":"Desculpa, não tens permissão para usar este comando!",
+                "not_setup": "You have to set me up before using this command!",
+        "no_args": "This command requires arguments!",
         "setup":{
-            "already_setup":"Já está configurado! \n Para configurar no novo canal, usa primeiro o comando FG stop",
-            "success":"Certo, irei informar-te sobre as atualizações quando houver um novo jogo gratuito :D"
+            "updated": "The announcement channel has succesfully been updated!",
+            "success1": "You're all setup, use",
+            "success2": "to test the announcements."
         },
         "stop":{
-            "not_setup":"Não estava ainda configurado, então não me podes impedir",
             "success":"Certo, irei parar de enviar as atualizações!"
         },
         "role":{
             "tag_a_role":"Precisas de mencionar um cargo que tu queiras para ser atribuído!",
             "everyone":"Agora, todos serão mencionados quando um jogo novo estiver gratuito!",
             "role_success":"será mencionado a partir de agora quando um jogo novo estiver gratuito!",
-            "not_setup":"Não estava ainda configurado, por isso não podes atribuir um cargo!"
+            "stopped": "No roles will be tagged!"
         },
-        "toggle":{
-            "specify_option":"Por favor, especifica qual opção gostarias de alterar \n Escolhe entre",
-            "not_setup":"Precisa de estar configurado antes que alteres as coisas",
-            "options":{
-                "steam":{
-                    "will":"Jogos da Steam serão anunciados!",
-                    "wont":"Jogos da Steam não serão anunciados!"
-                },
-                "epic":{
-                    "will":"Jogos da Epic Games serão anunciados!",
-                    "wont":"Jogos da Epic Games não serão anunciados!"
-                },
-                "uplay":{
-                    "will":"Jogos da Uplay serão anunciados!",
-                    "wont":"Jogos da Uplay não serão anunciados!"
-                },
-                "humble":{
-                    "will":"Jogos da Humble serão anunciados!",
-                    "wont":"Jogos da Humble não serão anunciados!"
-                },
-                "weekend":{
-                    "will":"Jogos com Fim-de-semana gratuito serão anunciados!",
-                    "wont":"Jogos com Fim-de-semana gratuito Free não serão anunciados!"
-                },
-                "gog":{
-                    "will":"Jogos da GOG serão anunciados!",
-                    "wont":"Jogos da GOG não serão anunciados!"
-                }
-            }
+        "config": {
+            "title": "Free Games Bot Config",
+            "description": "Click on the buttons listed under this message to toggle stores and to change the language.",
+            "toggle": "Click on the options you want to toggle",
+            "language": "Click on the language you want to assign to the bot"
         },
-        "setlang":{
-            "specify_lang":"Por favor, especifica o idioma que tu queiras alterar \n Escolhe entre",
-            "not_setup":"Precisa de estar configurado antes de escolheres o idioma!",
-            "success":"Idioma alterado com sucesso"
+        "invite": {
+            "thanks": "Thanks for your intrest!"
+        },
+        "setprefix": {
+            "changed": "Prefix changed to:"
         }
     },
     "free_games_embed_get":{
@@ -76,6 +54,7 @@
         "no_games":"Não existem jogos gratuitos disponíveis no momento!"
     },
     "free_games_embed_announce":{
+        "perms_missing": "Insufficient permissions to announce game! Missing permissions:",
         "free_until":"Gratuito até",
         "state":"Estado",
         "support_us":{

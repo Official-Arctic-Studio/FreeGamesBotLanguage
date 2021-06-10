@@ -34,7 +34,7 @@
             "tag_a_role":"Musíš označit roli kterou chceš přiřadit!",
             "everyone":"Až bude nová hra zdarma, všichni členové budou označeni!",
             "role_success":"Až bude nová hra zdarma, budeš označen!",
-            "not_setup":"Ještě jsi mě nenastavil, takže nemůžeš přiradit roli!"
+            "stopped": "No roles will be tagged!"
         },
         "config": {
             "title": "Free Games Bot Config",

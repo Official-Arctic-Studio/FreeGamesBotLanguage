@@ -2,13 +2,12 @@
     "help_menu":{
         "title":"Helpu Bwydlen",
         "commands":{
-            "help":"❓ Sicrhewch y helpu bwydlen",
-            "get":"📥 Hymofyn y gemau di-gost",
-            "setup":"✅ Sefydlu'r sianel hysbysiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
-            "stop":"❌ Stopiwch y bot rhag anfon hysbysiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
-            "toggle":"🔨 Toggle gosodiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
-            "role":"🏷️ Neilltuwch rôl i'r bot ei grybwyll (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
-            "setlang":"🗺️ Newid iath y bot (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)"
+            "help":"Sicrhewch y helpu bwydlen",
+            "config": "Toggle the stores and change the language of the bot",
+            "get":"Hymofyn y gemau di-gost",
+            "setup":"Sefydlu'r sianel hysbysiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
+            "stop":"Stopiwch y bot rhag anfon hysbysiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
+            "role":"Neilltuwch rôl i'r bot ei grybwyll (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
         },
         "support":{
             "name":"💎 Os ydych chi a ein cefnogi ni a datblygiad y bot hwn",
@@ -21,54 +20,33 @@
     },
     "commands":{
         "insufficient_permissions":"Mae'n ddrwg gennym, nid oes gennych ganiatâd i ddefnyddio'r gorchymyn hwn!!",
+        "not_setup": "You have to set me up before using this command!",
+        "no_args": "This command requires arguments!",
         "setup":{
-            "already_setup":"Rydych chi eisoes wedi sefydlu! \n I sefydlu mewn sianel newydd defnyddiwch 'FG stop' yn gyntf.",
-            "success":"Iawn, byddaf yn rhoi diweddariad newydd ichi pan fydd gêm newydd am ddim. :D"
+            "updated": "The announcement channel has succesfully been updated!",
+            "success1": "You're all setup, use",
+            "success2": "to test the announcements."
         },
         "stop":{
-            "not_setup":"Nid wyf wedi fy sefydlu eto, felly ni allwch fy rhwystro.",
             "success":"Iawn, byddaf yn rhoi'r gorau i anfon diweddariadau!"
         },
         "role":{
             "tag_a_role":"Mae angen i chi dagio'r rôl rydych chi am ei phenodi!",
             "everyone":"Bydd pawb nawr yn cael eu tagio pan fydd gêm newydd yn rhad ac am ddim!",
             "role_success":"nawr yn cael eu tagio pan fydd gêm newydd yn rhad ac am ddim ",
-            "not_setup":"Ni chefais fy setup eto felly ni allwch aseinio rôl!"
+            "stopped": "No roles will be tagged!"
         },
-        "toggle":{
-            "specify_option":"Nodwch pa opsiwn i'w toglo. \n Dewiswch o",
-            "not_setup":"Mae angen i chi fod yn setup cyn y gallwch chi toglo pethau",
-            "options":{
-                "steam":{
-                    "will":"Gemau stêm yn cael ei gyhoeddi!",
-                    "wont":"Gemau stêm ni chyhoeddir!"
-                },
-                "epic":{
-                    "will":"Cyhoeddir gemau epig!",
-                    "wont":"Ni fydd gemau epig yn cael eu cyhoeddi!"
-                },
-                "uplay":{
-                    "will":"Cyhoeddir gemau Uplay!",
-                    "wont":"Ni fydd gemau Uplay yn cael eu cyhoeddi!"
-                },
-                "humble":{
-                    "will":"Cyhoeddir gemau gostyngedig!",
-                    "wont":"Ni chyhoeddir gemau gostyngedig!"
-                },
-                "weekend":{
-                    "will":"Cyhoeddir penwythnosau am ddim!",
-                    "wont":"Ni chyhoeddir penwythnosau am ddim!"
-                },
-                "gog":{
-                    "will":"Cyhoeddir gemau GOG!",
-                    "wont":"Ni fydd gemau GOG yn cael eu cyhoeddi!"
-                }
-            }
+        "config": {
+            "title": "Free Games Bot Config",
+            "description": "Click on the buttons listed under this message to toggle stores and to change the language.",
+            "toggle": "Click on the options you want to toggle",
+            "language": "Click on the language you want to assign to the bot"
         },
-        "setlang":{
-            "specify_lang":"Nodwch yr iaith rydych chi am ei newid i \n Dewiswch ohoni",
-            "not_setup":"Mae'n rhaid i chi fod yn setup cyn newid ieithoedd!",
-            "success":"Newidiodd iaith yn llwyddiannus"
+        "invite": {
+            "thanks": "Thanks for your intrest!"
+        },
+        "setprefix": {
+            "changed": "Prefix changed to:"
         }
     },
     "free_games_embed_get":{
@@ -76,6 +54,7 @@
         "no_games":"Ar hyn o bryd nid oes gemau am ddim ar gael!"
     },
     "free_games_embed_announce":{
+        "perms_missing": "Insufficient permissions to announce game! Missing permissions:",
         "free_until":"Di-gost Tan",
         "state":"Nodwch",
         "support_us":{

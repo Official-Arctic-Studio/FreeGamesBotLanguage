@@ -3,7 +3,7 @@
         "title":"Hulp Menu",
         "commands":{
             "help":"Krijg dit hulp menu",
-            "config": "Toggle the stores and change the language of the bot",
+            "config": "Schakel tussen de winkels en verander de taal van de bot",
             "get":"Krijg de spellen die op dit moment gratis zijn",
             "setup":"Zet het notificatie kanaal op (alleen voor mensen met beheerder rechten)",
             "stop":"Voorkom dat de bot meldingen verzendt (alleen voor mensen met beheerder rechten)",
@@ -20,12 +20,12 @@
     },
     "commands":{
         "insufficient_permissions":"Sorry, je hebt geen toestemming om deze opdracht te gebruiken!",
-        "not_setup": "You have to set me up before using this command!",
-        "no_args": "This command requires arguments!",
+        "not_setup": "U moet mij instellen voordat u deze opdracht gebruikt!",
+        "no_args": "Deze opdracht vereist argumenten!",
         "setup":{
-            "updated": "The announcement channel has succesfully been updated!",
-            "success1": "You're all setup, use",
-            "success2": "to test the announcements."
+            "updated": "Het aankondigingskanaal is succesvol bijgewerkt!",
+            "success1": "Je bent helemaal klaar, gebruik",
+            "success2": "om de aankondigingen te testen."
         },
         "stop":{
             "success":"Oké, ik stop met het verzenden van updates!"
@@ -34,19 +34,19 @@
             "tag_a_role":"U moet de rol taggen die u wilt toewijzen!",
             "everyone":"iedereen wordt nu getagd als er een nieuw spel gratis is!",
             "role_success":"wordt nu getagd wanneer een nieuw spel gratis is!",
-            "stopped": "No roles will be tagged!"
+            "stopped": "Er worden geen rollen getagd!"
         },
         "config": {
-            "title": "Free Games Bot Config",
-            "description": "Click on the buttons listed under this message to toggle stores and to change the language.",
-            "toggle": "Click on the options you want to toggle",
-            "language": "Click on the language you want to assign to the bot"
+            "title": "Free Games Bot Configuratie",
+            "description": "Klik op de knoppen onder dit bericht om tussen winkels te schakelen en de taal te wijzigen.",
+            "toggle": "Klik op de opties die u wilt schakelen",
+            "language": "Klik op de taal die je aan de bot wilt toewijzen"
         },
         "invite": {
-            "thanks": "Thanks for your intrest!"
+            "thanks": "Bedankt voor uw interesse!"
         },
         "setprefix": {
-            "changed": "Prefix changed to:"
+            "changed": "Prefix gewijzigd in:"
         }
     },
     "free_games_embed_get":{
@@ -54,7 +54,7 @@
         "no_games":"Er zijn op dit moment geen gratis spellen!"
     },
     "free_games_embed_announce":{
-         "perms_missing": "Insufficient permissions to announce game! Missing permissions:",
+         "perms_missing": "Onvoldoende rechten om spel aan te kondigen! Ontbrekende machtigingen:",
         "free_until":"Gratis tot",
         "state":"Staat",
         "support_us":{

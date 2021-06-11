@@ -3,7 +3,7 @@
     "title": "Hilfemenü",
     "commands": {
       "help": "Bekomme dieses Hilfemenü",
-      "config": "Toggle the stores and change the language of the bot",
+      "config": "Schalten Sie die Geschäfte um und ändern Sie die Sprache des Bots",
       "get": "Sehe alle kostenlosen Spiele",
       "setup": "Richte den Benachrichtigungskanal ein (Nur für Administratoren)",
       "stop": "Stoppe das Senden von Benachrichtigungen durch den Bot (Nur für Administratoren)",
@@ -20,12 +20,12 @@
   },
   "commands": {
     "insufficient_permissions": "Entschuldigung, nur Administratoren können diesen Befehl verwenden!",
-    "not_setup": "You have to set me up before using this command!",
-    "no_args": "This command requires arguments!",
+    "not_setup": "Sie müssen mich einrichten, bevor Sie diesen Befehl verwenden!",
+    "no_args": "Dieser Befehl erfordert Argumente!",
     "setup": {
-            "updated": "The announcement channel has succesfully been updated!",
-            "success1": "You're all setup, use",
-            "success2": "to test the announcements."
+            "updated": "Der Ankündigungskanal wurde erfolgreich aktualisiert!",
+            "success1": "They are all set up, benutzen",
+            "success2": "um die Ansagen zu testen."
     },
     "stop": {
       "success": "Okay, ich werde aufhören, Benachrichtigungen zu senden!"
@@ -34,19 +34,19 @@
       "tag_a_role": "Erwähne die Rolle, die markiert werden soll!",
       "everyone": "Jeder wird jetzt erwähnt, wenn ein neues Spiel kostenlos ist!",
       "role_success": "wird jetzt erwähnt, wenn ein neues Spiel kostenlos ist!",
-      "stopped": "No roles will be tagged!"
+      "stopped": "Es sind keine Rollen markiert!"
     },
         "config": {
-            "title": "Free Games Bot Config",
-            "description": "Click on the buttons listed under this message to toggle stores and to change the language.",
-            "toggle": "Click on the options you want to toggle",
-            "language": "Click on the language you want to assign to the bot"
+            "title": "Free Games Bot Konfig",
+            "description": "Klicken Sie auf die Schaltflächen unter dieser Nachricht, um zwischen den Geschäften zu wechseln und die Sprache zu ändern.",
+            "toggle": "Klicken Sie auf die Optionen, die Sie umschalten möchten",
+            "language": "Klicken Sie auf die Sprache, die Sie dem Bot zuweisen möchten"
         },
         "invite": {
-            "thanks": "Thanks for your intrest!"
+            "thanks": "Danke für dein Interesse!"
         },
         "setprefix": {
-            "changed": "Prefix changed to:"
+            "changed": "Präfix geändert in:"
         }
   },
   "free_games_embed_get": {
@@ -54,7 +54,7 @@
     "no_games": "Derzeit sind keine kostenlosen Spiele verfügbar."
   },
   "free_games_embed_announce": {
-    "perms_missing": "Insufficient permissions to announce game! Missing permissions:",
+    "perms_missing": "Unzureichende Berechtigungen, um das Spiel anzukündigen! Fehlende Berechtigungen:",
     "free_until": "Kostenlos bis",
     "state": "Status",
     "support_us": {

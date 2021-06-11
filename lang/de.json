@@ -5,9 +5,9 @@
       "help": "Bekomme dieses Hilfemenü",
       "config": "Schalten Sie die Geschäfte um und ändern Sie die Sprache des Bots",
       "get": "Sehe alle kostenlosen Spiele",
-      "setup": "Richte den Benachrichtigungskanal ein (Nur für Administratoren)",
-      "stop": "Stoppe das Senden von Benachrichtigungen durch den Bot (Nur für Administratoren)",
-      "role": "Weise dem Bot eine Rolle zu, die erwähnt werden soll (Nur für Administratoren)",
+      "setup": "Richte den Benachrichtigungskanal ein",
+      "stop": "Stoppe das Senden von Benachrichtigungen durch den Bot",
+      "role": "Weise dem Bot eine Rolle zu, die erwähnt werden soll"
     },
     "support": {
       "name": "💎 Unterstütze uns und die Entwicklung dieses Bots",

@@ -3,7 +3,7 @@
         "title":"فهرست راهنما",
         "commands":{
             "help":"این فهرست راهنما را دریافت کنید",
-            "config": "Toggle the stores and change the language of the bot",
+            "config": "فروشگاه ها را تغییر دهید و زبان ربات را عوض کنید",
             "get":"بازی هایی را که در حال حاضر رایگان هستند را دریافت کنید",
             "setup":"کانال اعلان ها را تنظیم کنید (فقط برای افراد دارای مجوز ادمین)",
             "stop":"از ارسال اعلان ربات جلوگیری کنید (فقط برای افراد دارای مجوز ادمین)",
@@ -20,12 +20,12 @@
     },
     "commands":{
         "insufficient_permissions":"متأسفیم،شما اجازه استفاده از این دستور را ندارید!",
-        "not_setup": "You have to set me up before using this command!",
-        "no_args": "This command requires arguments!",
+        "not_setup": "قبل از استفاده از این دستور باید مرا تنظیم کنید!",
+        "no_args": "این دستور به پارامتر نیاز دارد!",
         "setup":{
-            "updated": "The announcement channel has succesfully been updated!",
-            "success1": "You're all setup, use",
-            "success2": "to test the announcements."
+            "updated": "کانال اطلاعیه با موفقیت به روز شد!",
+            "success1": "شما در حال راه اندازی هستید ، استفاده کنید",
+            "success2": "برای آزمایش اطلاعیه ها."
         },
         "stop":{
             "success":"خوب ، من ارسال به روز رسانی را متوقف می کنم!"
@@ -34,19 +34,19 @@
             "tag_a_role":"شما باید رولی را که می خواهید تعیین کنید تگ کنید!",
             "everyone":"اکنون وقتی بازی جدیدی رایگان شود ، همه تگ می شوند!",
             "role_success":"تگ میشود ، هروقت بازی جدیدی رایگان شود!",
-            "stopped": "No roles will be tagged!"
+            "stopped": "هیچ نقشی تگ نخواهد شد!"
         },
         "config": {
-            "title": "Free Games Bot Config",
-            "description": "Click on the buttons listed under this message to toggle stores and to change the language.",
-            "toggle": "Click on the options you want to toggle",
-            "language": "Click on the language you want to assign to the bot"
+            "title": "پیکر بندی ربات فری گیمز",
+            "description": "برای تغییر وضعیت فروشگاه ها و تغییر زبان بر روی دکمه های زیر این پیام کلیک کنید.",
+            "toggle": "روی گزینه هایی که می خواهید تغییر دهید کلیک کنید",
+            "language": "روی زبانی که می خواهید به ربات اختصاص دهید کلیک کنید"
         },
         "invite": {
-            "thanks": "Thanks for your intrest!"
+            "thanks": "از توجه شما سپاسگذاریم!"
         },
         "setprefix": {
-            "changed": "Prefix changed to:"
+            "changed": "پریفیکس تغییر کرد به:"
         }
     },
     "free_games_embed_get":{
@@ -54,7 +54,7 @@
         "no_games":"در حال حاضر هیچ بازی رایگان در دسترس نیست!"
     },
     "free_games_embed_announce":{
-        "perms_missing": "Insufficient permissions to announce game! Missing permissions:",
+        "perms_missing": "مجوز کافی برای اعلام بازی وجود ندارد! مجوزهای از دست رفته:",
         "free_until":"رایگان تا",
         "state":"وضعیت",
         "support_us":{

@@ -5,9 +5,9 @@
             "help":"Obter o Menu de ajuda",
             "config": "Alterar as plataformas de jogos e alterar o idioma do Bot",
             "get":"Obter os jogos que estão atualmente gratuitos",
-            "setup":"Configurar o canal de notificações (Apenas para os usuários com permissões de administrador)",
-            "stop":"Impedir o bot de enviar notificações (Apenas para os usuários com permissões de administrador)",
-            "role":"Atribuir um cargo para que o bot mencione (Apenas para os usuários com permissões de administrador)",
+            "setup":"Configurar o canal de notificações",
+            "stop":"Impedir o bot de enviar notificações",
+            "role":"Atribuir um cargo para que o bot mencione"
         },
         "support":{
             "name":"💎 Se tu quiseres apoiar-nos no desenvolvimento deste bot",

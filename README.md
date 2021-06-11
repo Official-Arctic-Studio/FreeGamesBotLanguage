@@ -6,7 +6,7 @@ Add your language to the Free Games Bot!
 
 ## **How to add my language?**
 1. Create a new file in the "lang" folder with your language code. LANGUAGE_CODE.json  
-2. Copy the contents from the en.json file and paste them in the file you created.  
+2. Copy the contents from the en_us.json file and paste them in the file you created.  
 3. The json file exists of keys and values example: "key":"value".  
      Only change the values of the json file to sentences in your own language.
 4. After you translated the sentences create a pull request with your Discord Username,tag and language. We will take a look at it and merge the files into the repository.  

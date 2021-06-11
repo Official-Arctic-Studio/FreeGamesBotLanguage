@@ -9,7 +9,8 @@ Add your language to the Free Games Bot!
 2. Copy the contents from the en_us.json file and paste them in the file you created.  
 3. The json file exists of keys and values example: "key":"value".  
      Only change the values of the json file to sentences in your own language.
-4. After you translated the sentences create a pull request with your Discord Username,tag and language. We will take a look at it and merge the files into the repository.  
+5. After you translated the bot please copy everything and run it trough a [JSON formatter](https://jsonformatter.curiousconcept.com/).
+4. If the JSON formatter doesn't return any errors create a pull request with your Discord Username,tag and language. We will take a look at it and merge the files into the repository.  
   
   
 ## **Languages**  

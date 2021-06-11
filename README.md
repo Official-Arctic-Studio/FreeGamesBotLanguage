@@ -21,7 +21,7 @@ Add your language to the Free Games Bot!
 | Afrikaans             | AF   |                |                |       |
 | Albanian              | SQ   |                |                |       |
 | Amharic               | AM   |                |                |       |
-| Arabic                | AR   |                |                |       |
+| Arabic                | AR   | xGarFielDx#0001|                |  ✅  |
 | Armenian              | HY   |                |                |       |
 | Assamese              | AS   |                |                |       |
 | Aymara                | AY   |                |                |       |

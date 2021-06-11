@@ -3,7 +3,7 @@
         "title":"Menu de Ajuda",
         "commands":{
             "help":"Obter o Menu de ajuda",
-            "config": "Toggle the stores and change the language of the bot",
+            "config": "Alterar as plataformas de jogos e alterar o idioma do Bot",
             "get":"Obter os jogos que estão atualmente gratuitos",
             "setup":"Configurar o canal de notificações (Apenas para os usuários com permissões de administrador)",
             "stop":"Impedir o bot de enviar notificações (Apenas para os usuários com permissões de administrador)",
@@ -11,21 +11,21 @@
         },
         "support":{
             "name":"💎 Se tu quiseres apoiar-nos no desenvolvimento deste bot",
-            "value":"   Podes votar neste bot se clicares [aqui](https://top.gg/bot/698117737175580692)"
+            "value":"   Para votá-lo, precisas de clicar [aqui](https://top.gg/bot/698117737175580692)"
         },
         "discord":{
             "name":"🔗 Podes consultar também o nosso servidor do Discord",
-            "value":"  Podes unir-te ao servidor por [aqui](https://discord.gg/wzF9qfC)"
+            "value":"  Vem unir-te ao servidor por [aqui](https://discord.gg/wzF9qfC)"
         }
     },
     "commands":{ 
-        "insufficient_permissions":"Desculpa, não tens permissão para usar este comando!",
-                "not_setup": "You have to set me up before using this command!",
-        "no_args": "This command requires arguments!",
+        "insufficient_permissions":"Desculpa, apenas o administrador tem permissão para usar este comando!",
+                "not_setup": "O administrador tem que me configurar antes de usar este comando!",
+        "no_args": "Este comando exige mais informação!",
         "setup":{
-            "updated": "The announcement channel has succesfully been updated!",
-            "success1": "You're all setup, use",
-            "success2": "to test the announcements."
+            "updated": " O Bot foi atualizado com sucesso no teu canal!",
+            "success1": "Está tudo pronto, usa",
+            "success2": "para testar o anúncio."
         },
         "stop":{
             "success":"Certo, irei parar de enviar as atualizações!"
@@ -34,19 +34,19 @@
             "tag_a_role":"Precisas de mencionar um cargo que tu queiras para ser atribuído!",
             "everyone":"Agora, todos serão mencionados quando um jogo novo estiver gratuito!",
             "role_success":"será mencionado a partir de agora quando um jogo novo estiver gratuito!",
-            "stopped": "No roles will be tagged!"
+            "stopped": "Nenhum cargo será mencionado!"
         },
         "config": {
-            "title": "Free Games Bot Config",
-            "description": "Click on the buttons listed under this message to toggle stores and to change the language.",
-            "toggle": "Click on the options you want to toggle",
-            "language": "Click on the language you want to assign to the bot"
+            "title": "Configuração no Bot de jogos gratuitos",
+            "description": "Clica nos botões apresentados em baixo para alterar as plataformas de jogos e/ou o idioma!",
+            "toggle": "Clica nas opções de plataformas que desejas retirar/obter",
+            "language": "Clica no idioma que desejas meter no Bot"
         },
         "invite": {
-            "thanks": "Thanks for your intrest!"
+            "thanks": "Agradeço pelo teu interesse!"
         },
         "setprefix": {
-            "changed": "Prefix changed to:"
+            "changed": "O prefixo alterou-se para:"
         }
     },
     "free_games_embed_get":{
@@ -54,13 +54,13 @@
         "no_games":"Não existem jogos gratuitos disponíveis no momento!"
     },
     "free_games_embed_announce":{
-        "perms_missing": "Insufficient permissions to announce game! Missing permissions:",
+        "perms_missing": "Possui permissões insuficientes para anunciar um jogo! As permissões que faltam são:",
         "free_until":"Gratuito até",
         "state":"Estado",
         "support_us":{
             "name":"Apoia-nos",
             "value":"[Junta-te a nós no servidor do Discord](https://discordapp.com/invite/wzF9qfC)\n[Adquira este Bot](https://top.gg/bot/698117737175580692)"
         },
-        "footer":"Clica no nome do jogo para entrar na loja"
+        "footer":"Clica no nome do jogo para tu entrares na loja"
     }
 }

@@ -3,7 +3,7 @@
         "title":"Yardım Menüsü",
         "commands":{
             "help":"Yardım menüsünü açar",
-            "config": "Toggle the stores and change the language of the bot",
+            "config": "Hangi mağazaların bildirim göndereceğini ve botun dilini ayarla",
             "get":"Şu an ücretsiz olan oyunları görüntüler",
             "setup":"Bildirim kanalını ayarlar (sadece yönetici yetkilerine sahip kullanıcılar)",
             "stop":"Botun bildirim yollamasını kapatır (sadece yönetici yetkilerine sahip kullanıcılar)",
@@ -20,12 +20,12 @@
     },
     "commands":{
         "insufficient_permissions":"Üzgünüm, bu komutu kullanmak için gerekli yetkilere sahip değilsiniz!",
-        "not_setup": "You have to set me up before using this command!",
-        "no_args": "This command requires arguments!",
+        "not_setup": "Bu komutu kullanmadan önce botun kurulumunu tamamlamanız gerek!",
+        "no_args": "Bu komutun argümanlarla beraber kullanılması gerek!",
         "setup":{
-            "updated": "The announcement channel has succesfully been updated!",
-            "success1": "You're all setup, use",
-            "success2": "to test the announcements."
+            "updated": "Duyuru kanalı başarıyla güncellendi!",
+            "success1": "Kurulum tamamlandı, kullanıma hazır.",
+            "success2": "duyuruları test edin."
         },
         "stop":{
             "success":"Tamamdır, bildirim göndermeyi bırakıyorum!"
@@ -34,19 +34,19 @@
             "tag_a_role":"Belirlemek istediğiniz rolü etiketlemeniz gerekmektedir!",
             "everyone":"everyone rolü her yeni ücretsiz oyun bildiriminde etiketlenecektir!",
             "role_success":"rolü her yeni ücretsiz oyun bildiriminde etiketlenecektir!",
-            "stopped": "No roles will be tagged!"
+            "stopped": "Herhangi bir rol etiketlenmeyecek!"
         },
         "config": {
-            "title": "Free Games Bot Config",
-            "description": "Click on the buttons listed under this message to toggle stores and to change the language.",
-            "toggle": "Click on the options you want to toggle",
-            "language": "Click on the language you want to assign to the bot"
+            "title": "Free Games Bot Ayarları",
+            "description": "Aşağıdaki butonlara tıklayarak mağazaları açıp kapayabilir, dili seçebilirsiniz.",
+            "toggle": "Değiştirmek istediğiniz ayara tıklayın.",
+            "language": "Botu hangi dilde kullanmak istediğinizi seçin."
         },
         "invite": {
-            "thanks": "Thanks for your intrest!"
+            "thanks": "İlginiz için teşekkürler!"
         },
         "setprefix": {
-            "changed": "Prefix changed to:"
+            "changed": "Önek değiştirildi:"
         }
     },
     "free_games_embed_get":{
@@ -54,7 +54,7 @@
         "no_games":"Şu anda hiç ücretsiz oyun bulunmamaktadır!"
     },
     "free_games_embed_announce":{
-                "perms_missing": "Insufficient permissions to announce game! Missing permissions:",
+                "perms_missing": "Botun yetkileri duyuru yapmak için yeterli değil. Eksik yetkiler:",
         "free_until":"Şu zamana kadar ücretsiz:",
         "state":"Durumu",
         "support_us":{

@@ -7,7 +7,7 @@
             "get":"Şu an ücretsiz olan oyunları görüntüler",
             "setup":"Bildirim kanalını ayarlar (sadece yönetici yetkilerine sahip kullanıcılar)",
             "stop":"Botun bildirim yollamasını kapatır (sadece yönetici yetkilerine sahip kullanıcılar)",
-            "role":"Botun bildirim yollayacağı bir rol seçer (sadece yönetici yetkilerine sahip kullanıcılar)",
+            "role":"Botun bildirim yollayacağı bir rol seçer (sadece yönetici yetkilerine sahip kullanıcılar)"
         },
         "support":{
             "name":"💎 Bize ve bu botun geliştirilmesine destek olmak istiyorsanız",

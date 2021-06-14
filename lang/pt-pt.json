@@ -10,8 +10,8 @@
             "role":"Atribuir um cargo para que o bot mencione"
         },
         "support":{
-            "name":"💎 Se tu quiseres apoiar-nos no desenvolvimento deste bot",
-            "value":"   Para votá-lo, precisas de clicar [aqui](https://top.gg/bot/698117737175580692)"
+            "name":"💎 Se tu quiseres apoiar-nos no desenvolvimento deste Bot",
+            "value":"Precisas de clicar [aqui](https://top.gg/bot/698117737175580692) para votar no Bot"
         },
         "discord":{
             "name":"🔗 Podes consultar também o nosso servidor do Discord",
@@ -23,7 +23,7 @@
                 "not_setup": "O administrador tem que me configurar antes de usar este comando!",
         "no_args": "Este comando exige mais informação!",
         "setup":{
-            "updated": " O Bot foi atualizado com sucesso no teu canal!",
+            "updated": " O Bot foi atualizado com sucesso neste canal!",
             "success1": "Está tudo pronto, usa",
             "success2": "para testar o anúncio."
         },

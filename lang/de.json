@@ -3,7 +3,7 @@
     "title": "Hilfemenü",
     "commands": {
       "help": "Bekomme dieses Hilfemenü",
-      "config": "Schalten Sie die Geschäfte um und ändern Sie die Sprache des Bots",
+      "config": "Ändere die Stores und Sprache des Bots",
       "get": "Sehe alle kostenlosen Spiele",
       "setup": "Richte den Benachrichtigungskanal ein",
       "stop": "Stoppe das Senden von Benachrichtigungen durch den Bot",
@@ -19,12 +19,12 @@
     }
   },
   "commands": {
-    "insufficient_permissions": "Entschuldigung, nur Administratoren können diesen Befehl verwenden!",
-    "not_setup": "Sie müssen mich einrichten, bevor Sie diesen Befehl verwenden!",
+    "insufficient_permissions": "Nur Administratoren können diesen Befehl verwenden!",
+    "not_setup": "Ich muss eingerichtet sein befor der Befehl verwendet werden kann!",
     "no_args": "Dieser Befehl erfordert Argumente!",
     "setup": {
             "updated": "Der Ankündigungskanal wurde erfolgreich aktualisiert!",
-            "success1": "They are all set up, benutzen",
+            "success1": "Der Bot ist einsatzbereit, benutzen",
             "success2": "um die Ansagen zu testen."
     },
     "stop": {
@@ -38,15 +38,15 @@
     },
         "config": {
             "title": "Free Games Bot Konfig",
-            "description": "Klicken Sie auf die Schaltflächen unter dieser Nachricht, um zwischen den Geschäften zu wechseln und die Sprache zu ändern.",
-            "toggle": "Klicken Sie auf die Optionen, die Sie umschalten möchten",
-            "language": "Klicken Sie auf die Sprache, die Sie dem Bot zuweisen möchten"
+            "description": "Benutze die Knöpfe unter dieser Nachricht um Sprache und Shops zu ändern.",
+            "toggle": "Klicke auf die Optionen, die geändert werden soll.",
+            "language": "Wähle die neue Sprache aus."
         },
         "invite": {
             "thanks": "Danke für dein Interesse!"
         },
         "setprefix": {
-            "changed": "Präfix geändert in:"
+            "changed": "Präfix geändert zu:"
         }
   },
   "free_games_embed_get": {

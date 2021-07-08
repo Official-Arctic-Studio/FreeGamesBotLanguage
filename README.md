@@ -112,7 +112,7 @@ Add your language to the Free Games Bot!
 | Quechua               | QU   |                |                |       |
 | Rhaeto-Romance        | RM   |                |                |       |
 | Romanian              | RO   |                |                |       |
-| Russian               | RU   |    ben.#1233   |                |  ✅   |
+| Russian               | RU   |    ben.#1233   |   Daniel?#8305             |  ✅   |
 | Samoan                | SM   |                |                |       |
 | Sangro                | SG   |                |                |       |
 | Sanskrit              | SA   |                |                |       |

@@ -72,7 +72,7 @@ Add your language to the Free Games Bot!
 | Interlingue           | IE   |                |                |       |
 | Inupiak               | IK   |                |                |       |
 | Irish                 | GA   |                |                |       |
-| Italian               | IT   |                |                |       |
+| Italian               | IT   |   antus#6491   |                |   ✅    |
 | Japanese              | JA   |    ben.#1233   |                |  ✅   |
 | Javanese              | JW   |                |                |       |
 | Kannada               | KN   |                |                |       |

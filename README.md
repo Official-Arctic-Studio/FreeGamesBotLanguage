@@ -155,7 +155,7 @@ Add your language to the Free Games Bot!
 | Yiddish               | JI   |                |                |       |
 | Yoruba                | YO   |                |                |       |
 | Zulu                  | ZU   |                |                |       |
-
+| Pirate                  |  EN_PIRATE   | shadowwwind#9111                |                |  ✅     |
 
 ## Thanks for helping us with translating the Free Games Bot!  
 ### Devs:

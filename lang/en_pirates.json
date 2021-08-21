@@ -7,7 +7,7 @@
             "get": "Get boats t' loot fer frrre games",
             "setup": "Setup the notifications channel",
             "stop": "Stop the boat from sendin' notifications",
-            "role": "Assign a rrrole fer the bot t' mention"
+            "role": "Assign a rrrole fer the boat t' mention"
         },
         "support": {
             "name": "💎 If ye wants t' support us 'n the development o' this boat",
@@ -37,10 +37,10 @@
             "stopped": "No roles will be tagged!"
         },
         "config": {
-            "title": "Free Games Bot Config",
+            "title": "Free Games Boat Config",
             "description": "Jab on the buttons listed under this message t' toggle stores 'n t' change the language.",
             "toggle": "Jab on the options ye wants t' toggle",
-            "language": "Skewer on the language ye wants t' assign t' the bot"
+            "language": "Skewer on the language ye wants t' assign t' the boat"
         },
         "invite": {
             "thanks": "Thanks fer yer intrest!"

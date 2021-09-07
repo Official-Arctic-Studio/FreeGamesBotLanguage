@@ -43,7 +43,7 @@
             "language": "Click on the language you want to assign to the bot"
         },
         "invite": {
-            "thanks": "Thanks for your intrest!"
+            "thanks": "Thanks for your interest!"
         },
         "setprefix": {
             "changed": "Prefix changed to:"

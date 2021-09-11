@@ -7,7 +7,7 @@
             "get":"Get the free games.",
             "setup":"Set up the notifications channel (only for administrators).",
             "stop":"Stop the bot from sending notifications (only for administrators).",
-            "role":"Choose a role for the bot to mention (only for administrators).",
+            "role":"Choose a role for the bot to mention (only for administrators)."
         },
         "support":{
             "name":"💎 If you wish to support us and the development of this bot,",

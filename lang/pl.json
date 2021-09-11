@@ -1,0 +1,66 @@
+{
+    "help_menu": {
+        "title": "Pomoc",
+        "commands": {
+            "help": "Wyświetla dostępne komendy",
+            "config": "Zmień ustawienia bota",
+            "get": "Wyświetl gry, które są obecnie bezpłatne",
+            "setup": "Skonfiguruj kanał powiadomień",
+            "stop": "Zatrzymaj wysyłanie powiadomień o bezpłatnych grach",
+            "role": "Przypisz rolę, o której wspomni bot"
+        },
+        "support": {
+            "name": "💎 Jeśli chcesz nas wesprzeć i nam pomóc w rozwoju bota",
+            "value": "   Możesz zagłosować [tutaj](https://top.gg/bot/698117737175580692)"
+        },
+        "discord": {
+            "name": "🔗 Możesz również sprawdzić nasz serwer discord",
+            "value": "  Aby dołączyć na serwer kliknij [tutaj](https://discord.gg/wzF9qfC)"
+        }
+    },
+    "commands": {
+        "insufficient_permissions": "Niestety, nie posiadasz uprawnień do użycia tej komendy!",
+        "not_setup": "Musisz najpierw skonfigurować bota!",
+        "no_args": "Ta komenda wymaga dodatkowych argumentów!",
+        "setup": {
+            "updated": "Kanał został pomyślnie zaktualizowany!",
+            "success1": "Wszystko gotowe, użyj",
+            "success2": "aby przetestować powiadomienia."
+        },
+        "stop": {
+            "success": "Okej, przestanę wysyłać powiadomienia!"
+        },
+        "role": {
+            "tag_a_role": "Musisz oznaczyć rolę, którą chcesz przypisać!",
+            "everyone": "wszyscy będą teraz oznaczeni, gdy nowa gra będzie darmowa!",
+            "role_success": "będzie teraz oznaczany, gdy nowa gra będzie darmowa!",
+            "stopped": "Żadne role nie zostaną oznaczone!"
+        },
+        "config": {
+            "title": "Konfiguracja bota",
+            "description": "Kliknij przyciski wymienione pod tą wiadomością, aby przełączyć i zmienić język.",
+            "toggle": "Kliknij opcje, które chcesz przełączyć",
+            "language": "Kliknij język, który chcesz ustawić botowi"
+        },
+        "invite": {
+            "thanks": "Dzięki za dodanie naszego bota!"
+        },
+        "setprefix": {
+            "changed": "Prefix został zmieniony na:"
+        }
+    },
+    "free_games_embed_get": {
+        "title": "Darmowe gry!",
+        "no_games": "Obecnie nie ma żadnych darmowych gier!"
+    },
+    "free_games_embed_announce": {
+        "perms_missing": "Nie posiadam uprawnień do wysyłania powiadomień:",
+        "free_until": "Bezpłatnie do",
+        "state": "Stan",
+        "support_us": {
+            "name": "Wesprzyj nas",
+            "value": "[Dołącz do naszego serwera discord](https://discordapp.com/invite/wzF9qfC)\n[Zaproś bota na swój serwer](https://top.gg/bot/698117737175580692)"
+        },
+        "footer": "Kliknij nazwę, aby przejść do sklepu."
+    }
+}

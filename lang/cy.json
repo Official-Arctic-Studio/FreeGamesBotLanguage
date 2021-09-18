@@ -7,7 +7,7 @@
             "get":"Hymofyn y gemau di-gost",
             "setup":"Sefydlu'r sianel hysbysiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
             "stop":"Stopiwch y bot rhag anfon hysbysiadau (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
-            "role":"Neilltuwch rôl i'r bot ei grybwyll (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)",
+            "role":"Neilltuwch rôl i'r bot ei grybwyll (dim ond ar gyfer y rhai sydd â chaniatâd gweinyddol)"
         },
         "support":{
             "name":"💎 Os ydych chi a ein cefnogi ni a datblygiad y bot hwn",

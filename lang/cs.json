@@ -7,7 +7,7 @@
             "get": "Zobrazit hry které jsou momentálně zdarma",
             "setup":"Nastavit kanál s oznámením (pouze pro lidi s administrátorskými pravomocmi)",
             "stop":"Zakázat botovi posílat notifikace (pouze pro lidi s administrátorskými pravomocmi)",
-            "role":"Nastavit roli kterou bude bot označovat (pouze pro lidi s administrátorskými pravomocmi)",
+            "role":"Nastavit roli kterou bude bot označovat (pouze pro lidi s administrátorskými pravomocmi)"
         },
         "support":{
             "name":"💎 Pokud chceš podpořit nás a vývoj tohoto bota",

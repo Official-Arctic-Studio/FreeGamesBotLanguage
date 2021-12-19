@@ -1,0 +1,66 @@
+{
+    "help_menu":{
+        "title":"Hewp Menu",
+        "commands":{
+            "help":"Get this hewp menu.",
+            "config": "Toggwe the stowes and change the wanguage of the bot",
+            "get":"Get the fwee games.",
+            "setup":"Set up the notifications channew (onwy fow administwatows).",
+            "stop":"Stop the bot fwom sending notifications (onwy fow administwatows).",
+            "role":"Choose a wowe fow the bot to mention (onwy fow administwatows)."
+        },
+        "support":{
+            "name":"💎 If you wish to suppowt us and the devewopment of this bot,",
+            "value":"   you can vote fow the bot by cwicking [hewe](https://top.gg/bot/698117737175580692)"
+        },
+        "discord":{
+            "name":"🔗 You can awso check out ouw discowd sewvew,",
+            "value":"  You can join the sewvew [hewe](https://discord.gg/wzF9qfC)"
+        }
+    },
+    "commands":{
+        "insufficient_permissions":"Sowwy, you don't have the pewmission to use this command!",
+        "not_setup": "You have to set me up befowe using this command!",
+        "no_args": "This command wequiwes awguments!",
+        "setup":{
+            "updated": "The aouncement channew has succesfuwwy been updated!",
+            "success1": "You'we aww setup, use",
+            "success2": "to test the announcements."
+        },
+        "stop":{
+            "success":"Ok, i wiww stop sending updates!"
+        },
+        "role":{
+            "tag_a_role":"You need to tag the wowe you want to choose!",
+            "everyone":"evewyone wiww now be tagged when a new game is fwee!",
+            "role_success":"wiww now be tagged when a new game is fwee!",
+            "stopped": "No wowes wiww be tagged!"
+        },
+        "config": {
+            "title": "Fwee Games Bot Config",
+            "description": "Cwick on the buttons wisted undew this message to toggwe stowes and to change the wanguage.",
+            "toggle": "Cwick on the options you want to toggwe",
+            "language": "Cwick on the wanguage you want to assign to the bot"
+        },
+        "invite": {
+            "thanks": "Thanks fow youw intewest!"
+        },
+        "setprefix": {
+            "changed": "Pwefix changed to:"
+        }
+    },
+    "free_games_embed_get":{
+        "title":"Fwee Games!",
+        "no_games":"Thewe awe cuwwentwy no fwee games avaiwabwe!"
+    },
+    "free_games_embed_announce":{
+        "perms_missing": "Insufficient pewmissions to announce game! missing pewmissions:",
+        "free_until":"Fwee untiw:",
+        "state":"State:",
+        "support_us":{
+            "name":"Suppowt us",
+            "value":"[Join ouw discowd sewvew](https://discordapp.com/invite/wzF9qfC)\n[Get this bot](https://top.gg/bot/698117737175580692)"
+        },
+        "footer":"Cwick on the name to go to the stowe"
+    }
+}
